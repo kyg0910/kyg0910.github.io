@@ -7,7 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<p>
-    <a href="Younggeun_CV.pdf" target="_blank">View my CV</a>
-</p>
-
+[View my CV](https://github.com/kyg0910/kyg0910.github.io/blob/master/_pages/Younggeun_CV.pdf)
