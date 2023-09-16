@@ -5,9 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
-======
-
 ## Journal
 1. **Kim, Y.-G.**, Lee, K., and Paik, M.C. (2022). Conditional Wasserstein generator. *IEEE Transactions on Pattern Analysis and Machine Intelligence*. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9944913) [[Code]](https://github.com/kyg0910/Conditional-Wasserstein-Generator)
 
