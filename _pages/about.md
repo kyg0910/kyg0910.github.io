@@ -24,10 +24,10 @@ Training & Education
 
 Selected Publications
 ======
-- **Kim, Y.-G.**, Lee, K., and Paik, M.C. (2022). Conditional Wasserstein generator. *IEEE Transactions on Pattern Analysis and Machine Intelligence*. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9944913)[[Code]](https://github.com/kyg0910/Conditional-Wasserstein-Generator)
+1. **Kim, Y.-G.**, Lee, K., and Paik, M.C. (2022). Conditional Wasserstein generator. *IEEE Transactions on Pattern Analysis and Machine Intelligence*. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9944913)[[Code]](https://github.com/kyg0910/Conditional-Wasserstein-Generator)
 
-- **Kim, Y.-G.**, Kwon, Y., and Paik, M.C. (2019). Valid oversampling schemes to handle imbalance. *Pattern Recognition Letters*, 125 (1): 661-667. [[Paper]](https://doi.org/10.1016/j.patrec.2019.07.006) [[Code]](https://github.com/ykwon0407/valid-oversample)
+2. **Kim, Y.-G.**, Kwon, Y., and Paik, M.C. (2019). Valid oversampling schemes to handle imbalance. *Pattern Recognition Letters*, 125 (1): 661-667. [[Paper]](https://doi.org/10.1016/j.patrec.2019.07.006) [[Code]](https://github.com/ykwon0407/valid-oversample)
 
-- **Kim, Y.-G.**, Liu, Y., and Wei, X. Covariate-informed representation learning to prevent posterior collapse of iVAE. *Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS 2023)*. [[Paper]](https://proceedings.mlr.press/v206/kim23c/kim23c.pdf) [[Code]](https://github.com/kyg0910/CI-iVAE)
+3. **Kim, Y.-G.**, Liu, Y., and Wei, X. Covariate-informed representation learning to prevent posterior collapse of iVAE. *Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS 2023)*. [[Paper]](https://proceedings.mlr.press/v206/kim23c/kim23c.pdf) [[Code]](https://github.com/kyg0910/CI-iVAE)
 
-- **Kim, Y.-G.**, Kwon, Y., Chang, H., and Paik, M.C. (2020). Lipschitz continuous autoencoders in application to anomaly detection. *Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS 2020)*. [[Paper]](http://proceedings.mlr.press/v108/kim20c.html) [[Code]](https://github.com/kyg0910/Lipschitz-Continuous-Autoencoders-in-Application-to-Anomaly-Detection)
+4. **Kim, Y.-G.**, Kwon, Y., Chang, H., and Paik, M.C. (2020). Lipschitz continuous autoencoders in application to anomaly detection. *Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS 2020)*. [[Paper]](http://proceedings.mlr.press/v108/kim20c.html) [[Code]](https://github.com/kyg0910/Lipschitz-Continuous-Autoencoders-in-Application-to-Anomaly-Detection)
