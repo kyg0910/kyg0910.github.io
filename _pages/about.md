@@ -28,6 +28,6 @@ Selected Publications
 
 2. **Kim, Y.-G.**, Kwon, Y., and Paik, M.C. (2019). Valid oversampling schemes to handle imbalance. *Pattern Recognition Letters*, 125 (1): 661-667. [[Paper]](https://doi.org/10.1016/j.patrec.2019.07.006) [[Code]](https://github.com/ykwon0407/valid-oversample)
 
-3. **Kim, Y.-G.**, Liu, Y., and Wei, X. Covariate-informed representation learning to prevent posterior collapse of iVAE. *Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS 2023)*. [[Paper]](https://proceedings.mlr.press/v206/kim23c/kim23c.pdf) [[Code]](https://github.com/kyg0910/CI-iVAE)
+3. **Kim, Y.-G.**, Liu, Y., and Wei, X. (2023). Covariate-informed representation learning to prevent posterior collapse of iVAE. *Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS 2023)*. [[Paper]](https://proceedings.mlr.press/v206/kim23c/kim23c.pdf) [[Code]](https://github.com/kyg0910/CI-iVAE)
 
 4. **Kim, Y.-G.**, Kwon, Y., Chang, H., and Paik, M.C. (2020). Lipschitz continuous autoencoders in application to anomaly detection. *Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS 2020)*. [[Paper]](http://proceedings.mlr.press/v108/kim20c.html) [[Code]](https://github.com/kyg0910/Lipschitz-Continuous-Autoencoders-in-Application-to-Anomaly-Detection)
