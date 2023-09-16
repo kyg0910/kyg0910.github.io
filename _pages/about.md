@@ -32,6 +32,18 @@ Selected Publications
 
 4. **Kim, Y.-G.**, Kwon, Y., Chang, H., and Paik, M.C. (2020). Lipschitz continuous autoencoders in application to anomaly detection. *Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS 2020)*. [[Paper]](http://proceedings.mlr.press/v108/kim20c.html) [[Code]](https://github.com/kyg0910/Lipschitz-Continuous-Autoencoders-in-Application-to-Anomaly-Detection)
 
+Selected Invited Talks
+======
+1. **Kim, Y.-G.**, Liu, Y., and Wei, X. (2023). Covariate-informed representation learning to prevent posterior collapse of iVAE. *The Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS 2023), Palau de Congressos, Valencia, Spain*; Poster presentation
+
+2. Liu, Y., **Kim, Y.-G.**, and Wei, X. (2023). Covariate informed identifiable variational autoencoder to learn representations from brain imaging measures. *Eastern North American Region (ENAR), Nashville, TN*.
+
+3. Kim, M., **Kim, Y.-G.**, Kim, D., Kim, Y., and Paik, M.C. (2021). Kernel-convoluted deep neural networks with data augmentation. *The 35th AAAI Conference on Artificial Intelligence (AAAI-21), Virtual conference due to COVID-19*.
+
+4. **Kim, Y.-G.**, Kwon, Y., Chang, H., and Paik, M.C. (2020). Lipschitz continuous autoencoders in application to anomaly detection. *The 23rd International Conference on Artificial Intelligence and Statistics (AISTATS 2020), Virtual conference due to COVID-19*.
+
+5. **Kim, Y.-G.**, Kwon, Y., Chang, H., and Paik, M.C. (2019). Lipschitz continuous autoencoders in application to anomaly detection. *IMS-China International Conference on Statistics and Probability, Dalian, China*.
+
 Other Professional Activities
 ======
 ## Conference Organizer
