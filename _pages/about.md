@@ -31,3 +31,18 @@ Selected Publications
 3. **Kim, Y.-G.**, Liu, Y., and Wei, X. (2023). Covariate-informed representation learning to prevent posterior collapse of iVAE. *Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS 2023)*. [[Paper]](https://proceedings.mlr.press/v206/kim23c/kim23c.pdf) [[Code]](https://github.com/kyg0910/CI-iVAE)
 
 4. **Kim, Y.-G.**, Kwon, Y., Chang, H., and Paik, M.C. (2020). Lipschitz continuous autoencoders in application to anomaly detection. *Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS 2020)*. [[Paper]](http://proceedings.mlr.press/v108/kim20c.html) [[Code]](https://github.com/kyg0910/Lipschitz-Continuous-Autoencoders-in-Application-to-Anomaly-Detection)
+
+Other Professional Activities
+======
+## Conference Organizer
+- Invited Session at Eastern North American Region 2023 (role: **Chair**); Title: Advanced Methods for Analyzing Large-Scale Neuroimaging Data from Nationwide Consortiums for Mental Health Research [[Info]](https://www.enar.org/meetings/spring2023/program/Invited_Preliminary_Program.cfm)
+
+- Oral Presentation Session at International Conference on Machine Learning 2022 (role: **Chair**); Title: Theory [[Info]](https://icml.cc/virtual/2022/session/20086)
+
+## Reviewer
+- International Conference on Machine Learning; Awarded Top 10% Reviewer
+- JAMA Psychiatry
+- Expert Systems with Applications
+- Pattern Recognition Letters
+- International Conference on Artificial Intelligence and Statistics
+- International Journal of Computer Assisted Radiology and Surgery
