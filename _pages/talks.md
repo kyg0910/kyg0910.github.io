@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "Talks"
+title: "Invited Talks"
 permalink: /talks/
 author_profile: true
 ---
-
-Invited Talks
-======
 
 ## International
 1. **Kim, Y.-G.**, Liu, Y., and Wei, X. (2023). "Covariate-informed Representation Learning to Prevent Posterior Collapse of iVAE." *The Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS 2023), Palau de Congressos, Valencia, Spain*; Poster presentation
@@ -29,10 +26,5 @@ Invited Talks
 4. **Kim, Y.-G.**, Chang, H., and Paik, M.C. (2018). "Unsupervised anomaly detection using inverse Christoffel function via kernelized Wasserstein autoencoders." *Fall Korea Statistical Conference 2018, Seoul.*
 5. **Kim, Y.-G.**, Kwon, Y., and Paik, M.C. (2017). "How to handle unbalanced dataset in medicine." *Deep learning educational workshop from basics to advances in medicine, Asan medical center, Songpa.*
 
-Contributed Talks
-======
-
-1. **Kim, Y.-G.**, Liu, Y., Brandt, L., Cheung, K., Nunes, E. V., Roll, J., and Luo, S. X. (2023). "Optimizing contingency management in substance use disorder treatment using off-policy policy evaluation." *Eastern North American Region (ENAR) 2023 Spring meeting.*
-2. **Kim, Y.-G.**, Kwon, Y., and Paik, M.C. (2017). "Handling imbalance in medical imaging data using convolutional neural network." *Spring Korea Statistical Conference 2017, Seoul, Republic of Korea.*
 
 
