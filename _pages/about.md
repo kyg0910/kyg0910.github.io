@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am Young-geun Kim, a postdoc fellow at the Department of Biostatistics and the Department of Psychiatry at Columbia University (Mentor: [Ying Liu](https://scholar.google.com/citations?user=08LYEGoAAAAJ&hl=en&oi=ao)). My research interests revolve around developing innovative data science tools and promoting their dissemination on real-world problems, with a particular focus on biomedical data. I received a Ph.D. degree in Statistics from Seoul National University (Advisor: [Myunghee Cho Paik](https://scholar.google.com/citations?user=ww1zLWEAAAAJ&hl=en)), in 2021.
+Welcome to my website! I am Young-geun Kim, a postdoc fellow at the Department of Biostatistics and the Department of Psychiatry at Columbia University (Mentor: [Ying Liu](https://scholar.google.com/citations?user=08LYEGoAAAAJ&hl=en&oi=ao)). I received a Ph.D. degree in Statistics from Seoul National University (Advisor: [Myunghee Cho Paik](https://scholar.google.com/citations?user=ww1zLWEAAAAJ&hl=en)), in 2021. 
 
-Training & Education
+Research Interests
 ======
-- **Adjunct Associate Research Scientist**, Department of Biostatistics at Columbia University, Jul. 2021 - **Present**<br>
+My research interests revolve around developing innovative data science tools and promoting their dissemination on real-world problems, with a particular focus on biomedical data. 
 
-- **Research Scientist II**, Department of Psychiatry at Columbia University, Jul. 2021 - **Present**<br>  
+- **Deep Representation Learning**: Deep generative models for insightful low-dimensional representations, with a focus on conditional generation using interpretable covariates like demographics. (interpretable dimension reduction)
 
-- **Postdoctoral Researcher**, Department of Statistics at Seoul National University, Mar. 2021 - Jun. 2021
-  
-- **Ph.D. in Statistics**, Seoul National University, Mar. 2015 - Feb. 2021<br> 
+- **Application of Data Science in Health Care**: Understanding nonlinear patterns in [rs-fMRI for autism spectrum disorders](https://www.biorxiv.org/content/10.1101/2023.09.13.557591v1.abstract), identifying heterogeneous temporal patterns in [ecological momentary data](https://www.biorxiv.org/content/10.1101/2023.09.13.557652v1.abstract), devising cost-effective treatment interventions for substance use disorders, and investigating neuroimaging sex differences.
 
-- **(Triple Major) B.S. in Industrial Engineering, Statistics, and Mathematical Sciences**, Seoul National University, Mar. 2010 - Feb. 2015<br>
+- **Addressing Population Imbalance**: Development of data augmentation frameworks to cater to the imbalance in sub-population sizes. One notable work focuses on practical regularizations for diabetic retinopathy classification using fundus images.
+
+- **Limited Label Data Science Tools**: Focusing on anomaly detection in scenarios where human-annotated labels, especially from clinical experts, are rare.
 
 Selected Publications
 ======
