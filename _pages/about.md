@@ -14,13 +14,13 @@ Research Interests
 ======
 My research interests revolve around developing innovative data science tools and promoting their dissemination on real-world problems, with a particular focus on biomedical data. 
 
-- **Deep Representation Learning**: Deep generative models for insightful low-dimensional representations, with a focus on conditional generation using interpretable covariates like demographics. (interpretable dimension reduction)
+- **Deep Generative Model**: [Data integration with Wasserstein geodesic](https://arxiv.org/abs/2308.10145), [Wasserstein distance-based conditional generative model](https://ieeexplore.ieee.org/abstract/document/9944913), and [interpretable representation learning with clinical covariates](https://proceedings.mlr.press/v206/kim23c.html).
 
-- **Application of Data Science in Health Care**: Understanding nonlinear patterns in [rs-fMRI for autism spectrum disorders](https://www.biorxiv.org/content/10.1101/2023.09.13.557591v1.abstract), identifying heterogeneous temporal patterns in [ecological momentary data](https://www.biorxiv.org/content/10.1101/2023.09.13.557652v1.abstract), devising cost-effective treatment interventions for substance use disorders, and investigating neuroimaging sex differences.
+- **Addressing Population Imbalance**: [Practical regularizations for diabetic retinopathy classification using fundus images](https://www.sciencedirect.com/science/article/pii/S0167865519301965) and [kernel-based data augmentation frameworks for imbalance in sub-population](https://ojs.aaai.org/index.php/AAAI/article/view/16993).
 
-- **Addressing Population Imbalance**: Development of data augmentation frameworks to cater to the imbalance in sub-population sizes. One notable work focuses on practical regularizations for diabetic retinopathy classification using fundus images.
+- **Limited Label**: [Wasserstein distance-based anomaly detection](https://proceedings.mlr.press/v108/kim20c.html) and [kernel-based anomaly detection](https://patents.google.com/patent/KR102202842B1/en).
 
-- **Limited Label Data Science Tools**: Focusing on anomaly detection in scenarios where human-annotated labels, especially from clinical experts, are rare.
+- **Application of Data Science in Health Care**: [Nonlinear patterns in rs-fMRI for autism spectrum disorders](https://www.biorxiv.org/content/10.1101/2023.09.13.557591v1.abstract), [heterogeneous temporal patterns in ecological momentary data](https://www.biorxiv.org/content/10.1101/2023.09.13.557652v1.abstract), and [Treatment interventions for substance use disorders](https://github.com/kyg0910/kyg0910.github.io/blob/master/_pages/ENAR_presentation.pdf).
 
 Selected Publications
 ======
