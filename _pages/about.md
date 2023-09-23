@@ -20,7 +20,7 @@ My research interests revolve around developing innovative data science tools an
 
 - **Limited Label**: [Wasserstein distance-based anomaly detection](https://proceedings.mlr.press/v108/kim20c.html) and [kernel-based anomaly detection](https://patents.google.com/patent/KR102202842B1/en).
 
-- **Application of Data Science in Health Care**: [Nonlinear patterns in rs-fMRI for autism spectrum disorders](https://www.biorxiv.org/content/10.1101/2023.09.13.557591v1.abstract), [heterogeneous temporal patterns in ecological momentary data](https://www.biorxiv.org/content/10.1101/2023.09.13.557652v1.abstract), and [Treatment interventions for substance use disorders](https://github.com/kyg0910/kyg0910.github.io/blob/master/_pages/ENAR_presentation.pdf).
+- **Application of Data Science in Health Care**: [Nonlinear patterns in rs-fMRI for autism spectrum disorders](https://www.biorxiv.org/content/10.1101/2023.09.13.557591v1.abstract) and [heterogeneous temporal patterns in ecological momentary data](https://www.biorxiv.org/content/10.1101/2023.09.13.557652v1.abstract).
 
 Selected Publications
 ======
