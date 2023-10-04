@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ubuntu! - I am, because you are"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am Young-geun Kim, a postdoc fellow at the Department of Biostatistics and the Department of Psychiatry at Columbia University (Mentor: [Ying Liu](https://scholar.google.com/citations?user=08LYEGoAAAAJ&hl=en&oi=ao)). I received a Ph.D. degree in Statistics from Seoul National University (Advisor: [Myunghee Cho Paik](https://scholar.google.com/citations?user=ww1zLWEAAAAJ&hl=en)), in 2021. 
+I am Young-geun Kim, a postdoc fellow at the Department of Biostatistics and the Department of Psychiatry at Columbia University (Mentor: [Ying Liu](https://scholar.google.com/citations?user=08LYEGoAAAAJ&hl=en&oi=ao)). I received a Ph.D. degree in Statistics from Seoul National University (Advisor: [Myunghee Cho Paik](https://scholar.google.com/citations?user=ww1zLWEAAAAJ&hl=en)), in 2021. 
 
 Research Interests
 ======
