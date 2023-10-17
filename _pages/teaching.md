@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Instructor at Seoul National University
-  - **Statistics Lab. (Fall 2015)** at Seoul National University
+  - **Statistics Lab. (Fall 2015)**
     - Freshman course to introduce R programming.
     - Held full responsibility for 17 students, including providing the whole 13 lectures, writing exam problems, and giving final grades.
 
