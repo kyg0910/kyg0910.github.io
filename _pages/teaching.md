@@ -14,7 +14,7 @@ author_profile: true
   - **Mathematical Statistics 1 (Spring 2016, Summer 2016, Spring 2017, Summer 2017)**
       - Major core course to focus on conditional probability, stochastic independence, and the distributions of random variables.
       - Held office hours and graded homework and exams.
-  - **Mathematical Statistics 2 (Fall 2016, Winter 2016, Fall 2017)** at Seoul National University
+  - **Mathematical Statistics 2 (Fall 2016, Winter 2016, Fall 2017)**
     - Major core course to provide a deeper understanding of limit distributions, statistical estimation, and statistical inferences.
     - Held office hours and graded homework and exams.
   - **Statistics (Spring 2015, Spring 2020)**
