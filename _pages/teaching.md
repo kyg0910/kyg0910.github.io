@@ -5,10 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Student Instructor at Seoul National University
+## Instructor at Seoul National University
   - **Statistics Lab. (Fall 2015)** at Seoul National University
     - Freshman course to introduce R programming.
-    - Served as a lecturer for 17 students, with full responsibility, including providing the whole 13 lectures, writing exam problems, and giving final grades.
+    - Held full responsibility for 17 students, including providing the whole 13 lectures, writing exam problems, and giving final grades.
 
 ## Teaching Assistant at Seoul National University
   - **Mathematical Statistics 1 (Spring 2016, Summer 2016, Spring 2017, Summer 2017)**
@@ -32,6 +32,11 @@ author_profile: true
     - Graduate-level course on deep learning.
     - Gave the lecture "Conditional Image Synthesis and Its Applications" in English.
       
-## Co-mentoring A Graduate Student at Columbia University
-  - Soohyun Kim, Department of Biostatistics (Mar. 2022 - Present)
-    - Had regular weekly meetings with the student and Dr. Yuanjia Wang.
+## Co-mentoring Graduate Students at Columbia University
+  - Soohyun Kim, Ph.D. Candidate, Department of Biostatistics (Mar. 2022 - Present)
+    - Conducted regular weekly meetings with the student and Dr. Yuanjia Wang.
+    - Provided mentorship on the doctoral dissertation and the following paper:
+      Kim, S., **Kim, Y.-G.**, and Wang, Y. (2023). Temporal generative models for learning heterogeneous group dynamics of ecological momentary data (under *Revision Invited* at Biometrics). [[BioRxiv]](https://www.biorxiv.org/content/10.1101/2023.09.13.557652v1)
+  - Zekai Jin, Master Student, Department of Biostatistics (Dec. 2022 - Present)
+    - Conducted regular bi-weekly meetings with the student and Dr. Seonjoo Lee.
+    - Provided mentorship on deep learning-based EEG denoising methods.
