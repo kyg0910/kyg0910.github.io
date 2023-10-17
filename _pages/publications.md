@@ -10,7 +10,7 @@ author_profile: true
 
 2. **Kim, Y.-G.**, Kwon, Y., and Paik, M.C. (2019). Valid oversampling schemes to handle imbalance. *Pattern Recognition Letters*, 125 (1): 661-667. [[Paper]](https://doi.org/10.1016/j.patrec.2019.07.006) [[Code]](https://github.com/ykwon0407/valid-oversample)
 
-## Conference
+## Peer-reviewed Conference
 3. **Kim, Y.-G.**, Liu, Y., and Wei, X. (2023). Covariate-informed representation learning to prevent posterior collapse of iVAE. *Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS 2023)*. [[Paper]](https://proceedings.mlr.press/v206/kim23c/kim23c.pdf) [[Code]](https://github.com/kyg0910/CI-iVAE)
 
 4. Kim, M., **Kim, Y.-G.**, Kim, D., Kim, Y., and Paik, M.C. (2021). Kernel-convoluted deep neural networks with data augmentation. *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2021)*. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16993) [[Code]](https://github.com/MJ1021/kcm-code)
