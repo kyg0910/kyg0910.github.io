@@ -10,17 +10,10 @@ redirect_from:
 
 I am Young-geun Kim, a postdoc fellow at the Department of Biostatistics and the Department of Psychiatry at Columbia University (Mentor: [Ying Liu](https://scholar.google.com/citations?user=08LYEGoAAAAJ&hl=en&oi=ao)). I received a Ph.D. degree in Statistics from Seoul National University (Advisor: [Myunghee Cho Paik](https://scholar.google.com/citations?user=ww1zLWEAAAAJ&hl=en)), in 2021. 
 
-Research Interests
-======
-My research interests revolve around developing innovative data science tools and promoting their dissemination on real-world problems, with a particular focus on biomedical data. 
-
-- **Deep Generative Model**: [Data integration with Wasserstein geodesic](https://arxiv.org/abs/2308.10145), [Wasserstein distance-based conditional generative model](https://ieeexplore.ieee.org/abstract/document/9944913), and [interpretable representation learning with clinical covariates](https://proceedings.mlr.press/v206/kim23c.html).
-
-- **Addressing Population Imbalance**: [Practical regularizations for diabetic retinopathy classification using fundus images](https://www.sciencedirect.com/science/article/pii/S0167865519301965) and [kernel-based data augmentation frameworks for imbalance in sub-population](https://ojs.aaai.org/index.php/AAAI/article/view/16993).
-
-- **Limited Label**: [Wasserstein distance-based anomaly detection](https://proceedings.mlr.press/v108/kim20c.html) and [kernel-based anomaly detection](https://patents.google.com/patent/KR102202842B1/en).
-
-- **Application of Data Science in Health Care**: [Nonlinear patterns in rs-fMRI for autism spectrum disorders](https://www.biorxiv.org/content/10.1101/2023.09.13.557591v1.abstract) and [heterogeneous temporal patterns in ecological momentary data](https://www.biorxiv.org/content/10.1101/2023.09.13.557652v1.abstract).
+I am a data scientist with expertise in advanced techniques for biomedical data and their dissemination for health care problems. My research topics include, but are not limited to:
+- Deep generative models for multi-modal biomedical data (e.g., neuroimaging and multi-omics)
+- Deep learning for identifying biomarkers associated with mental illness
+- Reinforcement learning-based health care
 
 Selected Publications
 ======
