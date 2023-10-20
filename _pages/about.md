@@ -10,7 +10,7 @@ redirect_from:
 
 I am Young-geun Kim, a postdoc fellow at the Department of Biostatistics and the Department of Psychiatry at Columbia University (Mentor: [Ying Liu](https://scholar.google.com/citations?user=08LYEGoAAAAJ&hl=en&oi=ao)). I received a Ph.D. degree in Statistics from Seoul National University (Advisor: [Myunghee Cho Paik](https://scholar.google.com/citations?user=ww1zLWEAAAAJ&hl=en)), in 2021. 
 
-I am a data scientist with expertise in advanced techniques for biomedical data and their dissemination for health care problems. My research topics include, but are not limited to:
+I am a data scientist with expertise in advanced techniques for biomedical data and their dissemination for medical research. My research topics include, but are not limited to:
 - Deep generative models for multi-modal biomedical data (e.g., neuroimaging and multi-omics)
 - Deep learning for identifying biomarkers associated with mental illness
 - Reinforcement learning-based health care
