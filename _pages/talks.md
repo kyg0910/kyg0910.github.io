@@ -25,7 +25,6 @@ author_profile: true
 2. **Kim, Y.-G.** (2023). "Recent Topics on Conditional Generative Models: statistical distance of conditional distributions and identifiability." *Korea Institute for Advanced Study (KIAS).*
 3. **Kim, Y.-G.**, Lee, K., and Paik, M.C. (2022). "Conditional Wasserstein generator." *Spring Korea Statistical Conference 2022, Seoul.*
 4. **Kim, Y.-G.**, Chang, H., and Paik, M.C. (2018). "Unsupervised anomaly detection using inverse Christoffel function via kernelized Wasserstein autoencoders." *Fall Korea Statistical Conference 2018, Seoul.*
-5. **Kim, Y.-G.**, Kwon, Y., and Paik, M.C. (2017). "How to handle unbalanced dataset in medicine." *Deep learning educational workshop from basics to advances in medicine, Asan medical center, Songpa.*
 
 
 
