@@ -15,6 +15,10 @@ I am a data scientist with expertise in advanced techniques for biomedical data 
 - Deep learning for identifying biomarkers associated with mental illness
 - Reinforcement learning-based health care
 
+Recent News
+======
+- (Dec. 15th) I have been honored with the Career Development Award by the Korean International Statistical Society.
+
 Selected Publications
 ======
 1. **Kim, Y.-G.**, Lee, K., and Paik, M.C. (2022). Conditional Wasserstein generator. *IEEE Transactions on Pattern Analysis and Machine Intelligence*. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9944913)[[Code]](https://github.com/kyg0910/Conditional-Wasserstein-Generator)
