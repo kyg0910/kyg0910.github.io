@@ -17,7 +17,7 @@ I am a data scientist with expertise in advanced techniques for biomedical data 
 
 Recent News
 ======
-- [01-19-2024] Our work is selected as a poster presentation at the Adolescent Brain Cognitive Development (ABCD) Insights & Innovations Meeting hosted by ABCD Study's Federal Collaborators.
+- [01-19-2024] Our work is selected as a poster presentation at the Adolescent Brain Cognitive Development (ABCD) Insights & Innovations Meeting hosted by ABCD Study's Federal Collaborators; Title: Explaining Nonlinear Patterns in Children's Structural MRI with Multi-modal Identifiable VAE
 - [12-15-2023] I have been honored with the Career Development Award by the Korean International Statistical Society.
 
 Selected Publications
