@@ -17,7 +17,8 @@ I am a data scientist with expertise in advanced techniques for biomedical data 
 
 Recent News
 ======
-- (Dec. 15th, 2023) I have been honored with the Career Development Award by the Korean International Statistical Society.
+- [01-19-2024] Our work is selected as a poster presentation at the ABCD Insights & Innovations Meeting.
+- [12-15-2023] I have been honored with the Career Development Award by the Korean International Statistical Society.
 
 Selected Publications
 ======
