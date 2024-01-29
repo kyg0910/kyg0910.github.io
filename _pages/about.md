@@ -17,7 +17,8 @@ I am a data scientist with expertise in advanced techniques for biomedical data 
 
 Recent News
 ======
-- [01-19-2024] Our work is selected as a poster presentation at the Adolescent Brain Cognitive Development (ABCD) Insights & Innovations Meeting hosted by ABCD Study's Federal Collaborators; Title: Explaining Nonlinear Patterns in Children's Structural MRI with Multi-modal Identifiable VAE
+- [01-29-2024] Our Invited Session proposal has been accepted by 2024 International Chinese Statistical Association (ICSA) (role: **Speaker**); Title: Recent Advances in Precision Medicine and Adaptive Experiments
+- [01-19-2024] Our work has been selected as a poster presentation at the Adolescent Brain Cognitive Development (ABCD) Insights & Innovations Meeting hosted by ABCD Study's federal collaborators; Title: Explaining Nonlinear Patterns in Children's Structural MRI with Multi-modal Identifiable VAE
 - [12-15-2023] I have been honored with the Career Development Award by the Korean International Statistical Society.
 
 Selected Publications
@@ -34,6 +35,8 @@ Other Professional Activities
 ======
 ## Conference Organizer
 - (Accepted) Invited Session at Joint Statistical Meetings 2024 (role: **Organizer** & **Speaker**); Title: Reliable and Cost-effective Mental Health Care with Reinforcement Learning
+
+- (Accepted) Invited Session at 2024 International Chinese Statistical Association (role: **Speaker**); Title: Recent Advances in Precision Medicine and Adaptive Experiments
   
 - Invited Session at Eastern North American Region 2023 (role: **Chair**); Title: Advanced Methods for Analyzing Large-Scale Neuroimaging Data from Nationwide Consortiums for Mental Health Research [[Info]](https://www.enar.org/meetings/spring2023/program/Invited_Preliminary_Program.cfm)
 
