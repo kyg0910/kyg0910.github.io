@@ -18,9 +18,9 @@ author_profile: true
 [C3] **Kim, Y.-G.**, Kwon, Y., Chang, H., and Paik, M.C. (2020). Lipschitz continuous autoencoders in application to anomaly detection. *Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS 2020)*. [[Paper]](http://proceedings.mlr.press/v108/kim20c.html) [[Code]](https://github.com/kyg0910/Lipschitz-Continuous-Autoencoders-in-Application-to-Anomaly-Detection)
 
 ## Patent
-[Patent 1] Paik, M.C., **Kim, Y.-G.**, and Lee, K. Method and apparatus for conditional data generation using conditional Wasserstein generator. Republic of Korea Patent. [[Info]](https://doi.org/10.8080/1020210105611)
+[P1] Paik, M.C., **Kim, Y.-G.**, and Lee, K. Method and apparatus for conditional data generation using conditional Wasserstein generator. Republic of Korea Patent. [[Info]](https://doi.org/10.8080/1020210105611)
 
-[Patent 2] Paik, M.C., **Kim, Y.-G.**, and Chang, H. Learning method and learning device for high-dimension unsupervised anomaly detection using kernalized Wasserstein autoencoder to lessen too many computations of Christophel function, and testing method and testing device using the same. Republic of Korea Patent. [[Info]](https://patents.google.com/patent/KR102202842B1/en)
+[P2] Paik, M.C., **Kim, Y.-G.**, and Chang, H. Learning method and learning device for high-dimension unsupervised anomaly detection using kernalized Wasserstein autoencoder to lessen too many computations of Christophel function, and testing method and testing device using the same. Republic of Korea Patent. [[Info]](https://patents.google.com/patent/KR102202842B1/en)
 
 ## Preprint
 [Pre. 1] **Kim, Y.-G.**, ..., and Paik, M.C. (2023). Wasserstein geodesic generator for conditional distributions (under *Major Revision* at Journal of Machine Learning Research). [[ArXiv]](http://arxiv.org/abs/2308.10145) [[Code]](https://github.com/kyg0910/Wasserstein-Geodesic-Generator-for-Conditional-Distributions)
@@ -29,5 +29,8 @@ author_profile: true
 
 [Pre. 3] **Kim, Y.-G.**\*, Ravid, O.\*, ..., and Zhu, X. (2023). Explaining deep learning-based representations of resting state functional connectivity data: focusing on interpreting nonlinear patterns in autism spectrum disorder. [[BioRxiv]](https://www.biorxiv.org/content/10.1101/2023.09.13.557591v1) [[Code]](https://github.com/kyg0910/Deep-Learning-Based-Representations-of-Resting-State-Functional-Connectivity-Data)
    *: Equal contribution of the first authors
+
+[Pre. 4] **Kim, Y.-G.**, ..., Luo, S. X.‡, and Liu, Y.‡ (2024). Optimizing contingency management with reinforcement learning. [[MedRxiv]](https://www.medrxiv.org/content/10.1101/2024.03.28.24305031v1) [[Code]](https://github.com/kyg0910/Optimizing-Contingency-Management-with-Reinforcement-Learning)
+   ‡: Equal contribution of the corresponding authors
  
 
