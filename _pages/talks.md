@@ -17,7 +17,7 @@ author_profile: true
 9. Paik, M.C., Kwon, Y., and **Kim, Y.-G.** (2017). "Statistical approach to deep convolutional neural networks for medical imaging." *Data Science & Computational Precision Health 2017 (DahShu 2017), San Francisco, CA, USA*.
 
 ## United States
-1. (Scheduled) **Kim, Y.-G.** and Liu, Y (2024). "Explaining Nonlinear Patterns in Children's Structural MRI with Multi-modal Identifiable VAE." *The ABCD Insights & Innovations Meeting, MD*; Poster presentation
+1. **Kim, Y.-G.** and Liu, Y (2024). "Explaining Nonlinear Patterns in Children's Structural MRI with Multi-modal Identifiable VAE." *The ABCD Insights & Innovations Meeting, MD*; Poster presentation
 2. Liu, Y, **Kim, Y.-G.**, and Wei, X (2023). "Covariate Informed Identifiable Variational Autoencoder to Learn Representations from Brain Imaging Measures." *Eastern North American Region (ENAR), Nashville, TN*.
 3. Kim, S., **Kim, Y.-G.**, and Wang, Y. (2023). "Temporal generative models for learning heterogeneous group dynamics of ecological momentary data." *The 10th Annual Thomas R. Ten Have Symposium on Statistics in Mental Health, BOS*; Poster presentation
 4. **Kim, Y.-G.**, Liu, Y, and Wei, X (2022). "Covariate-informed Representation Learning with Identifiable Variational Autoencoders." *The 9th Annual Thomas R. Ten Have Symposium on Statistics in Mental Health, NY*; Poster presentation
