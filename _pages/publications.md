@@ -23,14 +23,14 @@ author_profile: true
 [P2] Paik, M.C., **Kim, Y.-G.**, and Chang, H. Learning method and learning device for high-dimension unsupervised anomaly detection using kernalized Wasserstein autoencoder to lessen too many computations of Christophel function, and testing method and testing device using the same. Republic of Korea Patent. [[Info]](https://patents.google.com/patent/KR102202842B1/en)
 
 ## Preprint
-[Pre. 1] **Kim, Y.-G.**, ..., and Paik, M.C. (2023). Wasserstein geodesic generator for conditional distributions (under *Major Revision* at Journal of Machine Learning Research). [[ArXiv]](http://arxiv.org/abs/2308.10145) [[Code]](https://github.com/kyg0910/Wasserstein-Geodesic-Generator-for-Conditional-Distributions)
+[Pre. 1] **Kim, Y.-G.**, Lee, K., Choi, Y., Won, J.-H., and Paik, M.C. (2023). Wasserstein geodesic generator for conditional distributions (under *Major Revision* at Journal of Machine Learning Research). [[ArXiv]](http://arxiv.org/abs/2308.10145) [[Code]](https://github.com/kyg0910/Wasserstein-Geodesic-Generator-for-Conditional-Distributions)
 
 [Pre. 2] Kim, S., **Kim, Y.-G.**, and Wang, Y. (2023). Temporal generative models for learning heterogeneous group dynamics of ecological momentary data (under *Revision Invited* at Biometrics). [[BioRxiv]](https://www.biorxiv.org/content/10.1101/2023.09.13.557652v1)
 
-[Pre. 3] **Kim, Y.-G.**\*, Ravid, O.\*, ..., and Zhu, X. (2023). Explaining deep learning-based representations of resting state functional connectivity data: focusing on interpreting nonlinear patterns in autism spectrum disorder. [[BioRxiv]](https://www.biorxiv.org/content/10.1101/2023.09.13.557591v1) [[Code]](https://github.com/kyg0910/Deep-Learning-Based-Representations-of-Resting-State-Functional-Connectivity-Data)
+[Pre. 3] **Kim, Y.-G.**\*, Ravid, O.\*, Zhang, X., Kim, Y., Neria, Y., Lee, S., He, X., and Zhu, X.‡ (2023). Explaining deep learning-based representations of resting state functional connectivity data: focusing on interpreting nonlinear patterns in autism spectrum disorder. [[BioRxiv]](https://www.biorxiv.org/content/10.1101/2023.09.13.557591v1) [[Code]](https://github.com/kyg0910/Deep-Learning-Based-Representations-of-Resting-State-Functional-Connectivity-Data)
    *: Equal contribution of the first authors
 
-[Pre. 4] **Kim, Y.-G.**, ..., Luo, S. X.‡, and Liu, Y.‡ (2024). Optimizing contingency management with reinforcement learning. [[MedRxiv]](https://www.medrxiv.org/content/10.1101/2024.03.28.24305031v1) [[Code]](https://github.com/kyg0910/Optimizing-Contingency-Management-with-Reinforcement-Learning)
+[Pre. 4] **Kim, Y.-G.**, Brandt, L., Cheung, K., Nunes, E. V., Roll, J., Luo, S. X.‡, and Liu, Y.‡ (2024). Optimizing contingency management with reinforcement learning. [[MedRxiv]](https://www.medrxiv.org/content/10.1101/2024.03.28.24305031v1) [[Code]](https://github.com/kyg0910/Optimizing-Contingency-Management-with-Reinforcement-Learning)
    ‡: Equal contribution of the corresponding authors
  
 
