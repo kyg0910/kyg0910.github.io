@@ -27,7 +27,7 @@ author_profile: true
 
 [Pre. 2] Kim, S., **Kim, Y.-G.**, and Wang, Y. (2023). Temporal generative models for learning heterogeneous group dynamics of ecological momentary data (under *Revision Invited* at Biometrics). [[BioRxiv]](https://www.biorxiv.org/content/10.1101/2023.09.13.557652v1)
 
-[Pre. 3] **Kim, Y.-G.**\*, Ravid, O.\*, Zhang, X., Kim, Y., Neria, Y., Lee, S., He, X., and Zhu, X.‡ (2023). Explaining deep learning-based representations of resting state functional connectivity data: focusing on interpreting nonlinear patterns in autism spectrum disorder. [[BioRxiv]](https://www.biorxiv.org/content/10.1101/2023.09.13.557591v1) [[Code]](https://github.com/kyg0910/Deep-Learning-Based-Representations-of-Resting-State-Functional-Connectivity-Data)
+[Pre. 3] **Kim, Y.-G.**\*, Ravid, O.\*, Zhang, X., Kim, Y., Neria, Y., Lee, S., He, X., and Zhu, X. (2023). Explaining deep learning-based representations of resting state functional connectivity data: focusing on interpreting nonlinear patterns in autism spectrum disorder. [[BioRxiv]](https://www.biorxiv.org/content/10.1101/2023.09.13.557591v1) [[Code]](https://github.com/kyg0910/Deep-Learning-Based-Representations-of-Resting-State-Functional-Connectivity-Data)
    *: Equal contribution of the first authors
 
 [Pre. 4] **Kim, Y.-G.**, Brandt, L., Cheung, K., Nunes, E. V., Roll, J., Luo, S. X.‡, and Liu, Y.‡ (2024). Optimizing contingency management with reinforcement learning. [[MedRxiv]](https://www.medrxiv.org/content/10.1101/2024.03.28.24305031v1) [[Code]](https://github.com/kyg0910/Optimizing-Contingency-Management-with-Reinforcement-Learning)
