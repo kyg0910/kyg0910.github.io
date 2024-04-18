@@ -5,6 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Guest Lecturer at Columbia University
+  - **Statistical Practice and Research for Interdisciplinary Sciences (Spring 2024)**
+    - Graduate-level course on interdisciplinary research topics in Biostatistics.
+    - Gave the lecture "Recent Topics on Conditional Generative Models".
+
 ## Instructor at Seoul National University
   - **Statistics Lab. (Fall 2015)**
     - Freshman course to introduce R programming.
