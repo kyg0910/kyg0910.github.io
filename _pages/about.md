@@ -17,6 +17,7 @@ I am a data scientist with expertise in advanced techniques for biomedical data 
 
 Recent News
 ======
+- [04-26-2024] Our work has been accepted at Frontiers in Psychiatry; Title: Explaining deep learning-based representations of resting state functional connectivity data: focusing on interpreting nonlinear patterns in autism spectrum disorder
 - [01-29-2024] Our Invited Session proposal has been accepted by 2024 International Chinese Statistical Association (ICSA) (role: **Speaker**); Title: Recent Advances in Precision Medicine and Adaptive Experiments
 - [01-19-2024] Our work has been selected as a poster presentation at the Adolescent Brain Cognitive Development (ABCD) Insights & Innovations Meeting hosted by ABCD Study's federal collaborators; Title: Explaining Nonlinear Patterns in Children's Structural MRI with Multi-modal Identifiable VAE
 - [12-15-2023] I have been honored with the Career Development Award by the Korean International Statistical Society.
