@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Journal
-[J1] **Kim, Y.-G.**\*, Ravid, O.\*, Zhang, X., Kim, Y., Neria, Y., Lee, S., He, X.‡, and Zhu, X.‡ (2023). Explaining deep learning-based representations of resting state functional connectivity data: focusing on interpreting nonlinear patterns in autism spectrum disorder. [[Paper]](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1397093/abstract) [[Code]](https://github.com/kyg0910/Deep-Learning-Based-Representations-of-Resting-State-Functional-Connectivity-Data)
+[J1] **Kim, Y.-G.**\*, Ravid, O.\*, Zhang, X., Kim, Y., Neria, Y., Lee, S., He, X.‡, and Zhu, X.‡ (2024). Explaining deep learning-based representations of resting state functional connectivity data: focusing on interpreting nonlinear patterns in autism spectrum disorder.  *Frontiers in Psychiatry*. [[Paper]](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1397093/abstract) [[Code]](https://github.com/kyg0910/Deep-Learning-Based-Representations-of-Resting-State-Functional-Connectivity-Data)
    *: Equal contribution of the first authors; ‡: Equal contribution of the corresponding authors
 
 [J2] **Kim, Y.-G.**, Lee, K., and Paik, M.C. (2022). Conditional Wasserstein generator. *IEEE Transactions on Pattern Analysis and Machine Intelligence*. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9944913) [[Code]](https://github.com/kyg0910/Conditional-Wasserstein-Generator)
