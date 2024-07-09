@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Young-geun Kim, a postdoc fellow at the Department of Biostatistics and the Department of Psychiatry at Columbia University (Mentor: [Ying Liu](https://scholar.google.com/citations?user=08LYEGoAAAAJ&hl=en&oi=ao)). I received a Ph.D. degree in Statistics from Seoul National University (Advisor: [Myunghee Cho Paik](https://scholar.google.com/citations?user=ww1zLWEAAAAJ&hl=en)), in 2021. 
+I am Young-geun Kim, a postdoc fellow at the Department of Biostatistics and the Department of Psychiatry at Columbia University. **I will be joining the [Department of Statistics and Probability](https://stt.natsci.msu.edu/) at Michigan State University as an Assistant Professor [Hannan Endowed Visiting Scholar](https://stt.natsci.msu.edu/events/lecture-series/james-francis-hannan-lecture-series/index.aspx) this August.** I received a Ph.D. degree in Statistics from Seoul National University. 
 
 I am a data scientist with expertise in advanced techniques for biomedical data and their dissemination for medical research. My research topics include, but are not limited to:
 - Deep generative models for multi-modal biomedical data (e.g., neuroimaging and multi-omics)
@@ -20,7 +20,6 @@ Recent News
 - [04-26-2024] Our work has been accepted at Frontiers in Psychiatry; Title: Explaining deep learning-based representations of resting state functional connectivity data: focusing on interpreting nonlinear patterns in autism spectrum disorder
 - [01-29-2024] Our Invited Session proposal has been accepted by 2024 International Chinese Statistical Association (ICSA) (role: **Speaker**); Title: Recent Advances in Precision Medicine and Adaptive Experiments
 - [01-19-2024] Our work has been selected as a poster presentation at the Adolescent Brain Cognitive Development (ABCD) Insights & Innovations Meeting hosted by ABCD Study's federal collaborators; Title: Explaining Nonlinear Patterns in Children's Structural MRI with Multi-modal Identifiable VAE
-- [12-15-2023] I have been honored with the Career Development Award by the Korean International Statistical Society.
 
 Selected Publications
 ======
@@ -35,9 +34,9 @@ Selected Publications
 Other Professional Activities
 ======
 ## Conference Organizer
-- (Accepted) Invited Session at Joint Statistical Meetings 2024 (role: **Organizer** & **Speaker**); Title: Reliable and Cost-effective Mental Health Care with Reinforcement Learning
+- Invited Session at Joint Statistical Meetings 2024 (role: **Organizer** & **Speaker**); Title: Reliable and Cost-effective Mental Health Care with Reinforcement Learning
 
-- (Accepted) Invited Session at 2024 International Chinese Statistical Association (role: **Speaker**); Title: Recent Advances in Precision Medicine and Adaptive Experiments
+- Invited Session at 2024 International Chinese Statistical Association (role: **Speaker**); Title: Recent Advances in Precision Medicine and Adaptive Experiments
   
 - Invited Session at Eastern North American Region 2023 (role: **Chair**); Title: Advanced Methods for Analyzing Large-Scale Neuroimaging Data from Nationwide Consortiums for Mental Health Research [[Info]](https://www.enar.org/meetings/spring2023/program/Invited_Preliminary_Program.cfm)
 
