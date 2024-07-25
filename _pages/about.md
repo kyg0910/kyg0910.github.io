@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Young-geun Kim, a postdoc fellow at the Department of Biostatistics and the Department of Psychiatry at Columbia University. **I will be joining the [Department of Statistics and Probability](https://stt.natsci.msu.edu/) at Michigan State University as an Assistant Professor [Hannan Endowed Visiting Scholar](https://stt.natsci.msu.edu/events/lecture-series/james-francis-hannan-lecture-series/index.aspx) this August.** I received a Ph.D. degree in Statistics from Seoul National University. 
+I am Young-geun Kim, a postdoc fellow at the Department of Biostatistics and the Department of Psychiatry at Columbia University. **I will be joining the [Department of Statistics and Probability](https://stt.natsci.msu.edu/) at Michigan State University as an Assistant Professor this August.** I received a Ph.D. degree in Statistics from Seoul National University. 
 
 I am a data scientist with expertise in advanced techniques for biomedical data and their dissemination for medical research. My research topics include, but are not limited to:
 - Deep generative models for multi-modal biomedical data (e.g., neuroimaging and multi-omics)
