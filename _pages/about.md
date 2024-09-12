@@ -17,6 +17,7 @@ I am a data scientist with expertise in advanced techniques for biomedical data 
 
 Recent News
 ======
+- [09-11-2024] Our work has been accepted at Biometrics; Title: Temporal generative models for learning heterogeneous group dynamics of ecological momentary data 
 - [04-26-2024] Our work has been accepted at Frontiers in Psychiatry; Title: Explaining deep learning-based representations of resting state functional connectivity data: focusing on interpreting nonlinear patterns in autism spectrum disorder
 
 Selected Publications
@@ -28,6 +29,8 @@ Selected Publications
 3. **Kim, Y.-G.**, Liu, Y., and Wei, X. (2023). Covariate-informed representation learning to prevent posterior collapse of iVAE. *Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS 2023)*. [[Paper]](https://proceedings.mlr.press/v206/kim23c/kim23c.pdf) [[Code]](https://github.com/kyg0910/CI-iVAE)
 
 4. **Kim, Y.-G.**, Kwon, Y., Chang, H., and Paik, M.C. (2020). Lipschitz continuous autoencoders in application to anomaly detection. *Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS 2020)*. [[Paper]](http://proceedings.mlr.press/v108/kim20c.html) [[Code]](https://github.com/kyg0910/Lipschitz-Continuous-Autoencoders-in-Application-to-Anomaly-Detection)
+
+5. Kim, S., **Kim, Y.-G.**, and Wang, Y. (2023). Temporal generative models for learning heterogeneous group dynamics of ecological momentary data. Accepted at *Biometrics*. [[BioRxiv]](http://proceedings.mlr.press/v108/kim20c.html)
 
 Other Professional Activities
 ======
