@@ -12,7 +12,7 @@ author_profile: true
 ## Guest Lecturer
   - **STT 990: Statistics & Probability (Fall 2024)** at Michigan State University
     - Graduate-level seminar course.
-    - Gave the lecture "Deep Generative Model: A Statistical Perspective".
+    - Gave the lecture "Deep Generative Model: A Statistical Perspective". [[Presentation Slide]](https://github.com/kyg0910/kyg0910.github.io/blob/master/_pages/%5BSTT%20990%5D%20Deep%20Generative%20Model_A%20Statistical%20Perspective.pdf)
   - **Statistical Practice and Research for Interdisciplinary Sciences (Spring 2024)** at Columbia University
     - Graduate-level course on interdisciplinary research topics in Biostatistics.
     - Gave the lecture "Recent Topics on Conditional Generative Models".
