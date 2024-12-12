@@ -1,47 +1,35 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching and Mentoring"
 permalink: /teaching/
 author_profile: true
 ---
 
-## Guest Lecturer at Columbia University
-  - **Statistical Practice and Research for Interdisciplinary Sciences (Spring 2024)**
+# Teaching Experience
+## Instructor
+  - (Scheduled) **STT 997: Advanced Topics in Statistics (Spring 2024)** at Michigan State University
+    - Graduate-level course on recent topics in deep generative models and their applications.
+## Guest Lecturer
+  - **STT 990: Statistics & Probability (Fall 2024)** at Michigan State University
+    - Graduate-level seminar course.
+    - Gave the lecture "Deep Generative Model: A Statistical Perspective".
+  - **Statistical Practice and Research for Interdisciplinary Sciences (Spring 2024)** at Columbia University
     - Graduate-level course on interdisciplinary research topics in Biostatistics.
     - Gave the lecture "Recent Topics on Conditional Generative Models".
-
-## Instructor at Seoul National University
-  - **Statistics Lab. (Fall 2015)**
-    - Freshman course to introduce R programming.
-    - Held full responsibility for 17 students, including providing the whole 13 lectures, writing exam problems, and giving final grades.
-
-## Teaching Assistant at Seoul National University
-  - **Mathematical Statistics 1 (Spring 2016, Summer 2016, Spring 2017, Summer 2017)**
-      - Major core course to focus on conditional probability, stochastic independence, and the distributions of random variables.
-      - Held office hours and graded homework and exams.
-  - **Mathematical Statistics 2 (Fall 2016, Winter 2016, Fall 2017)**
-    - Major core course to provide a deeper understanding of limit distributions, statistical estimation, and statistical inferences.
-    - Held office hours and graded homework and exams.
-  - **Statistics (Spring 2015, Spring 2020)**
-    - Freshman course to introduce Statistics.
-    - Held office hours and graded homework and exams.
-  - **Deep Learning: A Statistical Perspective (Spring 2018, Fall 2018, Fall 2019, Fall 2020)**
-    - Graduate-level course on deep learning.
-    - Gave lectures about deep learning programming languages and deep learning-based object detection algorithms in English.
-  - **Seminar in Recent Development of Applied Statistics (Fall 2017)**
-    - Graduate-level course on missing data analysis.
-    - Gave a lecture about the application of expectation-maximization algorithm in incomplete data in English.
-      
-## Guest Lecturer at Seoul National University
-  - **Deep Learning: A Statistical Perspective (Fall 2021)**
+  - **Deep Learning: A Statistical Perspective (Fall 2021)** at Seoul National University
     - Graduate-level course on deep learning.
     - Gave the lecture "Conditional Image Synthesis and Its Applications" in English.
+
+# Mentorship Experience
       
-## Co-mentoring Graduate Students at Columbia University
-  - Soohyun Kim, Ph.D. Candidate, Department of Biostatistics (Mar. 2022 - Present)
+## Co-mentoring Graduate Students
+  - Bin Yang, Ph.D. Candidate, Department of Biostatistics, Columbia University (April 2024 - Present)
+    - Conducted regular weekly meetings with the student and Dr. Yuanjia Wang.
+    - Provided mentorship on variational autoencoders for EEG neuroimaging data.
+  - Soohyun Kim, Ph.D., Department of Biostatistics, Columbia University (Mar. 2022 -Sep. 2024)
     - Conducted regular weekly meetings with the student and Dr. Yuanjia Wang.
     - Provided mentorship on the doctoral dissertation and the following paper:
-      Kim, S., **Kim, Y.-G.**, and Wang, Y. (2023). Temporal generative models for learning heterogeneous group dynamics of ecological momentary data (under *Revision Invited* at Biometrics). [[BioRxiv]](https://www.biorxiv.org/content/10.1101/2023.09.13.557652v1)
-  - Zekai Jin, Master Student, Department of Biostatistics (Dec. 2022 - Present)
+      Kim, S., **Kim, Y.-G.**, and Wang, Y. (2024). Temporal generative models for learning heterogeneous group dynamics of ecological momentary data. *Biometrics*. [[Paper]](https://academic.oup.com/biometrics/article/80/4/ujae115/7821109)
+  - Zekai Jin, Master Student, Department of Biostatistics, Columbia University (Dec. 2022 - Oct. 2023)
     - Conducted regular bi-weekly meetings with the student and Dr. Seonjoo Lee.
     - Provided mentorship on deep learning-based EEG denoising methods.
