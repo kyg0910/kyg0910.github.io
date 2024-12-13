@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Instructor
-  - (Scheduled) **STT 997: Advanced Topics in Statistics (Spring 2025)** at Michigan State University
+  - (Scheduled) **STT 997: Advanced Topics in Statistics (Spring 2025)** at Michigan State University [[Course Description]](https://github.com/kyg0910/kyg0910.github.io/blob/master/_pages/%5BSTT%20997%5D%20Course%20Description_SS%202025.pdf)
     - Graduate-level course on recent topics in deep generative models and their applications.
     
 ## Guest Lecturer
