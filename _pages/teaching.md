@@ -7,6 +7,7 @@ author_profile: true
 
 ## Instructor
   - **STT 997: Advanced Topics in Statistics (Spring 2025)** at Michigan State University [[Syllabus]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/%5BSTT%20997%5D%20Syllabus_SS%202025.pdf)
+    - Course title: Deep Generative Model: A Statistical Perspective
     - Graduate-level course on recent topics in deep generative models and their applications.
     - Course materials:
       
