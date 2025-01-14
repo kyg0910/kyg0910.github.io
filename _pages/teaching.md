@@ -6,8 +6,33 @@ author_profile: true
 ---
 
 ## Instructor
-  - (Scheduled) **STT 997: Advanced Topics in Statistics (Spring 2025)** at Michigan State University [[Syllabus]](https://github.com/kyg0910/kyg0910.github.io/blob/master/_pages/%5BSTT%20997%5D%20Syllabus_SS%202025.pdf)
+  - **STT 997: Advanced Topics in Statistics (Spring 2025)** at Michigan State University [[Syllabus]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/%5BSTT%20997%5D%20Syllabus_SS%202025.pdf)
     - Graduate-level course on recent topics in deep generative models and their applications.
+    - Course materials:
+      
+      0 Course Logistics [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/0.%20Course%20Logistics.pdf)
+      
+      1 Introduction [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/1.%20Introduction.pdf)
+      
+      2 Preliminary Knowledge - Statistics [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/2.%20Preliminary%20Knowledge%20-%20Statistics.pdf)
+         
+      3 Preliminary Knowledge - Statistical Learning [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/3.%20Preliminary%20Knowledge%20-%20Statistical%20Learning.pdf)
+
+      4 Preliminary Knowledge - Python and PyTorch Implementations [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/4.%20Preliminary%20Knowledge%20-%20Python%20and%20PyTorch%20Implementations.pdf) [[Code]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/IV.%20Preliminary%20Knowledge%20-%20Python%20and%20PyTorch.ipynb)
+
+      5 Linear Method and Auto-regressive Model
+
+      6 Energy-based Model
+
+      7 Variational Autoencoders
+
+      8 Generative Adversarial Networks
+
+      9 PyTorch Implementation
+
+      10 Optimal Transport-based Method
+
+      11 Score-based Method
     
 ## Guest Lecturer
   - **STT 990: Statistics & Probability (Fall 2024)** at Michigan State University
