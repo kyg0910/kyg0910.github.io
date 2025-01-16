@@ -51,7 +51,7 @@ author_profile: true
 ## Co-mentoring Graduate Students
   - Bin Yang, Ph.D. Candidate, Department of Biostatistics, Columbia University (April 2024 - Present)
     - Conducted regular weekly meetings with the student and Dr. Yuanjia Wang.
-    - Provided mentorship on variational autoencoders for EEG neuroimaging data.
+    - Provided mentorship on the following work: Yang B., **Kim, Y.-G.**, and Wang Y. Deep representation learning for optimizing individualized treatment decisions. Work in progress; This work was selected as the Runner-up in the student paper competition for the Statistics in Imaging Section of the ASA.
   - Soohyun Kim, Ph.D., Department of Biostatistics, Columbia University (Mar. 2022 -Sep. 2024)
     - Conducted regular weekly meetings with the student and Dr. Yuanjia Wang.
     - Provided mentorship on the doctoral dissertation and the following paper:
