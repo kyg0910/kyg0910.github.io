@@ -33,10 +33,11 @@ author_profile: true
 [Pre. 2] **Kim, Y.-G.**, Brandt, L., Cheung, K., Nunes, E. V., Roll, J., Luo, S. X.‡, and Liu, Y.‡ (2024). Optimizing contingency management with reinforcement learning. [[MedRxiv]](https://www.medrxiv.org/content/10.1101/2024.03.28.24305031v1) [[Code]](https://github.com/kyg0910/Optimizing-Contingency-Management-with-Reinforcement-Learning)
    ‡: Equal contribution of the corresponding authors
 
-[Pre. 3] Yang B., **Kim, Y.-G.**, and Wang Y. Representation learning for optimizing individualized treatment decisions. Work in progress
-* This work was selected as the Runner-up in the student paper competition for the Statistics in Imaging Section of the ASA.
-
-[Pre. 4] Zheng, X., Ravid, O., Barry, R. A.J., Kim, Y., Wang, Q., **Kim, Y.-G.**, Zhu, X.‡ and He, X.‡ (2024). Denoising Variational Autoencoder as a Feature Reduction Pipeline for the diagnosis of Autism based on Resting-state fMRI. [[Arxiv]](https://www.medrxiv.org/content/10.1101/2024.03.28.24305031v1)
+[Pre. 3] Zheng, X., Ravid, O., Barry, R. A.J., Kim, Y., Wang, Q., **Kim, Y.-G.**, Zhu, X.‡ and He, X.‡ (2024). Denoising Variational Autoencoder as a Feature Reduction Pipeline for the diagnosis of Autism based on Resting-state fMRI. [[Arxiv]](https://www.medrxiv.org/content/10.1101/2024.03.28.24305031v1)
    ‡: Equal contribution of the corresponding authors
+
+## Work in progress
+[W1] Yang B., **Kim, Y.-G.**, and Wang Y. Representation learning for optimizing individualized treatment decisions. Work in progress
+* This work was selected as the Runner-up in the student paper competition for the Statistics in Imaging Section of the ASA.
  
 
