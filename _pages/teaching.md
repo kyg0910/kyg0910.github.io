@@ -21,11 +21,11 @@ author_profile: true
 
       4 Preliminary Knowledge - Python and PyTorch Implementations [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/4.%20Preliminary%20Knowledge%20-%20Python%20and%20PyTorch%20Implementations.pdf) [[Code]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/IV.%20Preliminary%20Knowledge%20-%20Python%20and%20PyTorch.ipynb)
 
-      5 Linear Method and Auto-regressive Model
+      5 Linear Method and Auto-regressive Model [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/5.%20Linear%20Method%20and%20Auto-regressive%20Model.pdf)
 
-      6 Energy-based Model
+      6 Energy-based Model [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/6.%20Energy-based%20Model.pdf)
 
-      7 Variational Autoencoders
+      7 Variational Autoencoders [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/7.%20Variational%20Autoencoders.pdf)
 
       8 Generative Adversarial Networks
 
