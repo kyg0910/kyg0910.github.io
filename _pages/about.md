@@ -48,7 +48,9 @@ Other Professional Activities
 ## Reviewer
 - International Conference on Machine Learning; Awarded Top 10% Reviewer
 - JAMA Psychiatry
+- Biostatistics
 - Expert Systems with Applications
 - Pattern Recognition Letters
 - International Conference on Artificial Intelligence and Statistics
 - International Journal of Computer Assisted Radiology and Surgery
+- Statistics and Data Science in Imaging
