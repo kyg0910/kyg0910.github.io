@@ -27,7 +27,7 @@ author_profile: true
 
       7 Variational Autoencoders [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/7.%20Variational%20Autoencoders.pdf)
 
-      8 Generative Adversarial Networks
+      8 Generative Adversarial Networks [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/8.%20Generative%20Adversarial%20Networks.pdf)
 
       9 PyTorch Implementation
 
