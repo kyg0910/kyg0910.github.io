@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Journal
-[J1] Kim, S., **Kim, Y.-G.**, and Wang, Y. (2023). Temporal generative models for learning heterogeneous group dynamics of ecological momentary data. Accepted at *Biometrics* [[BioRxiv]](https://www.biorxiv.org/content/10.1101/2023.09.13.557652v1)
+[J1] Kim, S., **Kim, Y.-G.**, and Wang, Y. (2024). Temporal generative models for learning heterogeneous group dynamics of ecological momentary data. *Biometrics* [[Paper]](https://academic.oup.com/biometrics/article/80/4/ujae115/7821109) [[Code]](https://academic.oup.com/biometrics/article/80/4/ujae115/7821109)
 
 [J2] **Kim, Y.-G.**\*, Ravid, O.\*, Zhang, X., Kim, Y., Neria, Y., Lee, S., He, X.‡, and Zhu, X.‡ (2024). Explaining deep learning-based representations of resting state functional connectivity data: focusing on interpreting nonlinear patterns in autism spectrum disorder.  *Frontiers in Psychiatry*. [[Paper]](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1397093/abstract) [[Code]](https://github.com/kyg0910/Deep-Learning-Based-Representations-of-Resting-State-Functional-Connectivity-Data)
    *: Equal contribution of the first authors; ‡: Equal contribution of the corresponding authors
