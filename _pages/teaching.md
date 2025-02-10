@@ -29,7 +29,7 @@ author_profile: true
 
       8 Generative Adversarial Networks [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/8.%20Generative%20Adversarial%20Networks.pdf)
 
-      9 PyTorch Implementation
+      9 PyTorch Implementation [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/9.%20PyTorch%20Implementation.pdf) [[Code]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/Pytorch/STT997_VAE_MNIST.ipynb)
 
       10 Optimal Transport-based Method
 
