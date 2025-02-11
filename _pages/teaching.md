@@ -11,8 +11,6 @@ author_profile: true
     - Graduate-level course on recent topics in deep generative models and their applications.
     - Course materials:
       
-      0 Course Logistics [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/0.%20Course%20Logistics.pdf)
-      
       1 Introduction [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/1.%20Introduction.pdf)
       
       2 Preliminary Knowledge - Statistics [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/2.%20Preliminary%20Knowledge%20-%20Statistics.pdf)
