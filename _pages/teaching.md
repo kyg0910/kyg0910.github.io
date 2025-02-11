@@ -31,7 +31,7 @@ author_profile: true
 
       9 PyTorch Implementation [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/9.%20PyTorch%20Implementation.pdf) [[Code]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/Pytorch/STT997_VAE_MNIST.ipynb)
 
-      10 Optimal Transport-based Method
+      10 Optimal Transport-based Method [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/10.%20Optimal%20Transport-based%20Method.pdf)
 
       11 Score-based Method
     
