@@ -6,32 +6,9 @@ author_profile: true
 ---
 
 ## Instructor
-  - **STT 997: Advanced Topics in Statistics (Spring 2025)** at Michigan State University [[Syllabus]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/%5BSTT%20997%5D%20Syllabus_SS%202025.pdf)
+  - **STT 997: Advanced Topics in Statistics (Spring 2025)** at Michigan State University [[Course Material]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/tree/main)
     - Course title: Deep Generative Model: A Statistical Perspective
     - Graduate-level course on recent topics in deep generative models and their applications.
-    - Course materials:
-      
-      1 Introduction [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/1.%20Introduction.pdf)
-      
-      2 Preliminary Knowledge - Statistics [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/2.%20Preliminary%20Knowledge%20-%20Statistics.pdf)
-         
-      3 Preliminary Knowledge - Statistical Learning [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/3.%20Preliminary%20Knowledge%20-%20Statistical%20Learning.pdf)
-
-      4 Preliminary Knowledge - Python and PyTorch Implementations [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/4.%20Preliminary%20Knowledge%20-%20Python%20and%20PyTorch%20Implementations.pdf) [[Code]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/IV.%20Preliminary%20Knowledge%20-%20Python%20and%20PyTorch.ipynb)
-
-      5 Linear Method and Auto-regressive Model [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/5.%20Linear%20Method%20and%20Auto-regressive%20Model.pdf)
-
-      6 Energy-based Model [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/6.%20Energy-based%20Model.pdf)
-
-      7 Variational Autoencoders [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/7.%20Variational%20Autoencoders.pdf)
-
-      8 Generative Adversarial Networks [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/8.%20Generative%20Adversarial%20Networks.pdf)
-
-      9 PyTorch Implementation [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/9.%20PyTorch%20Implementation.pdf) [[Code]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/Pytorch/STT997_VAE_MNIST.ipynb)
-
-      10 Optimal Transport-based Method [[Lecture Note]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/10.%20Optimal%20Transport-based%20Method.pdf)
-
-      11 Score-based Method
     
 ## Guest Lecturer
   - **STT 990: Statistics & Probability (Fall 2024)** at Michigan State University
