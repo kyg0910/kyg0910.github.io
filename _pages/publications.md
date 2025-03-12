@@ -16,7 +16,7 @@ author_profile: true
 [J4] **Kim, Y.-G.**, Kwon, Y., and Paik, M.C. (2019). Valid oversampling schemes to handle imbalance. *Pattern Recognition Letters*, 125 (1): 661-667. [[Paper]](https://doi.org/10.1016/j.patrec.2019.07.006) [[Code]](https://github.com/ykwon0407/valid-oversample)
 
 ## Peer-reviewed Conference
-[C1] **Kim, Y.-G.**, Hu, M.-C., Nunes, E. V., Luo, S. X.‡, and Liu, Y.‡ (2025). Optimizing contingency management with reinforcement learning. *Accepted at IEEE International Conference on Healthcare Informatics (LONG presentation)* [[Preliminary version at MedRxiv]](https://www.medrxiv.org/content/10.1101/2024.03.28.24305031v1) [[Code]](https://github.com/kyg0910/Optimizing-Contingency-Management-with-Reinforcement-Learning)
+[C1] **Kim, Y.-G.**, Hu, M.-C., Nunes, E. V., Luo, S. X.‡, and Liu, Y.‡ (2025). Optimizing contingency management with reinforcement learning. *Accepted at IEEE International Conference on Healthcare Informatics (selected as a long presentation)* [[PreliminaryVersion]](https://www.medrxiv.org/content/10.1101/2024.03.28.24305031v1) [[Code]](https://github.com/kyg0910/Optimizing-Contingency-Management-with-Reinforcement-Learning)
    ‡: Equal contribution of the corresponding authors
 
 [C2] **Kim, Y.-G.**, Liu, Y., and Wei, X. (2023). Covariate-informed representation learning to prevent posterior collapse of iVAE. *Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS 2023)*. [[Paper]](https://proceedings.mlr.press/v206/kim23c/kim23c.pdf) [[Code]](https://github.com/kyg0910/CI-iVAE)
