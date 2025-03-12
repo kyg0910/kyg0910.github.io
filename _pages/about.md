@@ -33,7 +33,7 @@ Selected Publications
 
 4. **Kim, Y.-G.**, Kwon, Y., Chang, H., and Paik, M.C. (2020). Lipschitz continuous autoencoders in application to anomaly detection. *Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS 2020)*. [[Paper]](http://proceedings.mlr.press/v108/kim20c.html) [[Code]](https://github.com/kyg0910/Lipschitz-Continuous-Autoencoders-in-Application-to-Anomaly-Detection)
 
-5. Kim, S., **Kim, Y.-G.**, and Wang, Y. (2023). Temporal generative models for learning heterogeneous group dynamics of ecological momentary data. Accepted at *Biometrics*. [[BioRxiv]](http://proceedings.mlr.press/v108/kim20c.html)
+5. Kim, S., **Kim, Y.-G.**, and Wang, Y. (2024). Temporal generative models for learning heterogeneous group dynamics of ecological momentary data. *Biometrics* [[Paper]](https://academic.oup.com/biometrics/article/80/4/ujae115/7821109) [[Code]](https://academic.oup.com/biometrics/article/80/4/ujae115/7821109)
 
 Other Professional Activities
 ======
