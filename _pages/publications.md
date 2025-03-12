@@ -37,8 +37,11 @@ author_profile: true
    ‡: Equal contribution of the corresponding authors
 
 ## Work in progress
-[W1] Yang B., **Kim, Y.-G.**, and Wang Y. Representation learning for optimizing individualized treatment decisions. Work in progress
+[W1] **Kim, Y.-G.** and Liu, Y. Mid-VAE: Multi-modal, Identifiable, and Disentangled Representation Learning for Children's Structural Brain Imaging. Work in progress
+* Preliminary results were presented at ABCD AIIM conference.
+  
+[W2] Yang B., **Kim, Y.-G.**, and Wang Y. Representation learning for optimizing individualized treatment decisions. Work in progress
 * This work was selected as the Runner-up in the student paper competition for the Statistics in Imaging Section of the ASA.
 
-[W2] Yu, W., Qu, G., **Kim, Y.-G.**, Xu, L., and Zhang, A (2025). A Novel GNN Framework Integrating Neuroimaging and Behavioral Information to Understand Adolescent Psychiatric Disorders (Submitted to MIDL 2025)
+[W3] Yu, W., Qu, G., **Kim, Y.-G.**, Xu, L., and Zhang, A (2025). A Novel GNN Framework Integrating Neuroimaging and Behavioral Information to Understand Adolescent Psychiatric Disorders (Submitted to MIDL 2025)
 
