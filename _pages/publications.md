@@ -37,7 +37,7 @@ author_profile: true
    ‡: Equal contribution of the corresponding authors
 
 ## Work in progress
-[W1] **Kim, Y.-G.** and Liu, Y. Mid-VAE: Multi-modal, Identifiable, and Disentangled Representation Learning for Children's Structural Brain Imaging. Work in progress
+[W1] **Kim, Y.-G.**\*‡ and Liu, Y. Mid-VAE: Multi-modal, Identifiable, and Disentangled Representation Learning for Children's Structural Brain Imaging. Work in progress
 * Preliminary results were presented at ABCD AIIM conference.
   
 [W2] Yang B., **Kim, Y.-G.**, and Wang Y. Representation learning for optimizing individualized treatment decisions. Work in progress
