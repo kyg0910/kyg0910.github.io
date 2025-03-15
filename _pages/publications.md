@@ -26,9 +26,9 @@ author_profile: true
 [C4] **Kim, Y.-G.**, Kwon, Y., Chang, H., and Paik, M.C. (2020). Lipschitz continuous autoencoders in application to anomaly detection. *Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS 2020)*. [[Paper]](http://proceedings.mlr.press/v108/kim20c.html) [[Code]](https://github.com/kyg0910/Lipschitz-Continuous-Autoencoders-in-Application-to-Anomaly-Detection)
 
 ## Patent
-[P1] Paik, M.C., **Kim, Y.-G.**, and Lee, K. Method and apparatus for conditional data generation using conditional Wasserstein generator. Republic of Korea Patent. [[Info]](https://doi.org/10.8080/1020210105611)
+[P1] Paik, M.C., **Kim, Y.-G.**, and Lee, K. (2024). Method and apparatus for conditional data generation using conditional Wasserstein generator. *KR Patent 102734936B1*. [[Info]](https://patents.google.com/patent/KR102734936B1/en)
 
-[P2] Paik, M.C., **Kim, Y.-G.**, and Chang, H. Learning method and learning device for high-dimension unsupervised anomaly detection using kernalized Wasserstein autoencoder to lessen too many computations of Christophel function, and testing method and testing device using the same. Republic of Korea Patent. [[Info]](https://patents.google.com/patent/KR102202842B1/en)
+[P2] Paik, M.C., **Kim, Y.-G.**, and Chang, H. (2021). Learning method and learning device for high-dimension unsupervised anomaly detection using kernalized Wasserstein autoencoder to lessen too many computations of Christophel function, and testing method and testing device using the same. *KR Patent 102202842B1*. [[Info]](https://patents.google.com/patent/KR102202842B1/en)
 
 ## Preprint
 [Pre. 1] **Kim, Y.-G.**, Lee, K., Choi, Y., Won, J.-H., and Paik, M.C. (2023). Wasserstein geodesic generator for conditional distributions (under *Major Revision* at Journal of Machine Learning Research). [[ArXiv]](http://arxiv.org/abs/2308.10145) [[Code]](https://github.com/kyg0910/Wasserstein-Geodesic-Generator-for-Conditional-Distributions)
