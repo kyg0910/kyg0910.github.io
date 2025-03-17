@@ -46,12 +46,15 @@ Other Professional Activities
 
 - Oral Presentation Session at International Conference on Machine Learning 2022 (role: **Chair**); Title: Theory [[Info]](https://icml.cc/virtual/2022/session/20086)
 
-## Reviewer
-- International Conference on Machine Learning; Awarded Top 10% Reviewer
-- JAMA Psychiatry
-- Biostatistics
-- Expert Systems with Applications
-- Pattern Recognition Letters
-- International Conference on Artificial Intelligence and Statistics
-- International Journal of Computer Assisted Radiology and Surgery
-- Statistics and Data Science in Imaging
+## Reviewer 
+### Journal (number of submissions)
+- Expert Systems with Applications (42)
+- JAMA Psychiatry (2)
+- Biostatistics (1)
+- Statistics and Data Science in Imaging (2)
+- International Journal of Computer Assisted Radiology and Surgery (3)
+- Journal of the Korean Statistical Society (2)
+
+### Conference (year)
+- International Conference on Machine Learning (2022)
+- International Conference on Artificial Intelligence and Statistics (2022 and 2023)
