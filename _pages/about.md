@@ -17,9 +17,9 @@ I am a data scientist with expertise in advanced techniques for biomedical data 
 
 Recent News
 ======
+- [03-27-2025] Our work has been accepted at Medical Imaging with Deep Learning; Title: A Novel GNN Framework Integrating Neuroimaging and Behavioral Information to Understand Adolescent Psychiatric Disorders
 - [03-12-2025] Our work has been accepted at IEEE International Conference on Healthcare Informatics (selected as a long presentation); Title: Optimizing Contingency Management with Reinforcement Learning
-- [01-15-2025] Our work was selected as the Runner-up in the student paper competition for the Statistics in Imaging Section of the ASA:
-Yang B., **Kim, Y.-G.**, and Wang Y. Deep Representation Learning for Optimizing Individualized Treatment Decisions. Work in progress
+- [01-15-2025] Our work was selected as the Runner-up in the student paper competition for the Statistics in Imaging Section of the ASA; Title: Deep Representation Learning for Optimizing Individualized Treatment Decisions
 - [09-11-2024] Our work has been accepted at Biometrics; Title: Temporal generative models for learning heterogeneous group dynamics of ecological momentary data 
 - [04-26-2024] Our work has been accepted at Frontiers in Psychiatry; Title: Explaining deep learning-based representations of resting state functional connectivity data: focusing on interpreting nonlinear patterns in autism spectrum disorder
 
@@ -38,6 +38,8 @@ Selected Publications
 Other Professional Activities
 ======
 ## Conference Organizer
+- Invited Session at Joint Statistical Meetings 2024 (role: **Speaker**); Title: Wasserstein Geodesic Generator for Conditional Distributions
+
 - Invited Session at Joint Statistical Meetings 2024 (role: **Organizer** & **Speaker**); Title: Reliable and Cost-effective Mental Health Care with Reinforcement Learning
 
 - Invited Session at 2024 International Chinese Statistical Association (role: **Speaker**); Title: Recent Advances in Precision Medicine and Adaptive Experiments
