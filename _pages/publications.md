@@ -19,11 +19,13 @@ author_profile: true
 [C1] **Kim, Y.-G.**, Hu, M.-C., Nunes, E. V., Luo, S. X.‡, and Liu, Y.‡ (2025). Optimizing contingency management with reinforcement learning. *Accepted at IEEE International Conference on Healthcare Informatics (selected as a long presentation)* [[PreliminaryVersion]](https://www.medrxiv.org/content/10.1101/2024.03.28.24305031v1) [[Code]](https://github.com/kyg0910/Optimizing-Contingency-Management-with-Reinforcement-Learning)
    ‡: Equal contribution of the corresponding authors
 
-[C2] **Kim, Y.-G.**, Liu, Y., and Wei, X. (2023). Covariate-informed representation learning to prevent posterior collapse of iVAE. *Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS 2023)*. [[Paper]](https://proceedings.mlr.press/v206/kim23c/kim23c.pdf) [[Code]](https://github.com/kyg0910/CI-iVAE)
+[C2] Yu, W., Qu, G., **Kim, Y.-G.**, Xu, L., and Zhang, A (2025). A Novel GNN Framework Integrating Neuroimaging and Behavioral Information to Understand Adolescent Psychiatric Disorders. *Accepted at Medical Imaging with Deep Learning (MIDL)* [[Paper]](https://openreview.net/forum?id=Yjv27GWb3n#discussion)
 
-[C3] Kim, M., **Kim, Y.-G.**, Kim, D., Kim, Y., and Paik, M.C. (2021). Kernel-convoluted deep neural networks with data augmentation. *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2021)*. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16993) [[Code]](https://github.com/MJ1021/kcm-code)
+[C3] **Kim, Y.-G.**, Liu, Y., and Wei, X. (2023). Covariate-informed representation learning to prevent posterior collapse of iVAE. *Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS)*. [[Paper]](https://proceedings.mlr.press/v206/kim23c/kim23c.pdf) [[Code]](https://github.com/kyg0910/CI-iVAE)
 
-[C4] **Kim, Y.-G.**, Kwon, Y., Chang, H., and Paik, M.C. (2020). Lipschitz continuous autoencoders in application to anomaly detection. *Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS 2020)*. [[Paper]](http://proceedings.mlr.press/v108/kim20c.html) [[Code]](https://github.com/kyg0910/Lipschitz-Continuous-Autoencoders-in-Application-to-Anomaly-Detection)
+[C4] Kim, M., **Kim, Y.-G.**, Kim, D., Kim, Y., and Paik, M.C. (2021). Kernel-convoluted deep neural networks with data augmentation. *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16993) [[Code]](https://github.com/MJ1021/kcm-code)
+
+[C5] **Kim, Y.-G.**, Kwon, Y., Chang, H., and Paik, M.C. (2020). Lipschitz continuous autoencoders in application to anomaly detection. *Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS)*. [[Paper]](http://proceedings.mlr.press/v108/kim20c.html) [[Code]](https://github.com/kyg0910/Lipschitz-Continuous-Autoencoders-in-Application-to-Anomaly-Detection)
 
 ## Patent
 [P1] Paik, M.C., **Kim, Y.-G.**, and Lee, K. (2024). Method and apparatus for conditional data generation using conditional Wasserstein generator. *KR Patent 102734936B1*. [[Info]](https://patents.google.com/patent/KR102734936B1/en)
@@ -42,6 +44,3 @@ author_profile: true
   
 [W2] Yang B., **Kim, Y.-G.**, and Wang Y. Representation learning for optimizing individualized treatment decisions. Work in progress
 * This work was selected as the Runner-up in the student paper competition for the Statistics in Imaging Section of the ASA.
-
-[W3] Yu, W., Qu, G., **Kim, Y.-G.**, Xu, L., and Zhang, A (2025). A Novel GNN Framework Integrating Neuroimaging and Behavioral Information to Understand Adolescent Psychiatric Disorders (Submitted to MIDL 2025)
-
