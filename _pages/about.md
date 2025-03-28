@@ -18,7 +18,7 @@ I am a data scientist with expertise in advanced techniques for biomedical data 
 Recent News
 ======
 - [03-27-2025] Our work has been accepted at Medical Imaging with Deep Learning; Title: A Novel GNN Framework Integrating Neuroimaging and Behavioral Information to Understand Adolescent Psychiatric Disorders
-- [03-25-2025] Our Invited Session proposal has been accepted for International India Statistics Association (role: **Speaker**)
+- [03-25-2025] Our Invited Session proposal has been accepted for International Indian Statistical Association (role: **Speaker**)
 - [03-12-2025] Our work has been accepted at IEEE International Conference on Healthcare Informatics (selected as a long presentation); Title: Optimizing Contingency Management with Reinforcement Learning
 - [01-15-2025] Our work was selected as the Runner-up in the student paper competition for the Statistics in Imaging Section of the ASA; Title: Deep Representation Learning for Optimizing Individualized Treatment Decisions
 - [09-11-2024] Our work has been accepted at Biometrics; Title: Temporal generative models for learning heterogeneous group dynamics of ecological momentary data 
