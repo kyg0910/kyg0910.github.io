@@ -7,8 +7,8 @@ author_profile: true
 
 ## Instructor
   - **STT 997: Advanced Topics in Statistics (Spring 2025)** at Michigan State University [[Course Material]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/tree/main)
-    - Course title: Deep Generative Model: A Statistical Perspective
-    - Graduate-level course on recent topics in deep generative models and their applications.
+    - **Developed a new course** for recent topics in deep generative models and their applications
+    - Graduate-level course.
     
 ## Guest Lecturer
   - **STT 990: Statistics & Probability (Fall 2024)** at Michigan State University
