@@ -6,9 +6,13 @@ author_profile: true
 ---
 
 ## Instructor
+### Graduate-level course
   - **STT 997: Advanced Topics in Statistics (Spring 2025)** at Michigan State University [[Course Material]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/tree/main)
     - **Developed a new course** for recent topics in deep generative models and their applications
-    - Graduate-level course.
+   
+### Undergraduate-level course
+  - **STT 351: Probability and Statistics for Engineering (Summer 2025)** at Michigan State University
+    - Topics include probability models and random variables, estimation, confidence intervals, tests of hypotheses, simple linear regression, and applications to engineering.
     
 ## Guest Lecturer
   - **Statistical Practice and Research for Interdisciplinary Sciences (Spring 2025)** at Columbia University
