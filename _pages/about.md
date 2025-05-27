@@ -38,8 +38,10 @@ Selected Publications
 
 Other Professional Activities
 ======
-## Conference Organizer
-- Invited Session at International Indian Statistical Association 2025 (role: **Speaker**); Title: Wasserstein Geodesic Generator for Conditional Distributions
+## Event Chairing
+- Invited Session at East Asia Chapter of International Society for Bayesian Analysis 2025 (role: **Chair**); Title: Recent Developments in a Bayesian Framework
+  
+- Invited Session at 2025 International Indian Statistical Association 2025 (role: **Speaker**); Title: Wasserstein Geodesic Generator for Conditional Distributions
 
 - Invited Session at Joint Statistical Meetings 2024 (role: **Organizer** & **Speaker**); Title: Reliable and Cost-effective Mental Health Care with Reinforcement Learning
 
