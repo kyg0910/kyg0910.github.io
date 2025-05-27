@@ -19,7 +19,7 @@ author_profile: true
 [C1] **Kim, Y.-G.**, Hu, M.-C., Nunes, E. V., Luo, S. X.‡, and Liu, Y.‡ (2025). Optimizing contingency management with reinforcement learning. *Accepted at IEEE International Conference on Healthcare Informatics (selected as a long presentation)* [[PreliminaryVersion]](https://www.medrxiv.org/content/10.1101/2024.03.28.24305031v1) [[Code]](https://github.com/kyg0910/Optimizing-Contingency-Management-with-Reinforcement-Learning)
    ‡: Equal contribution of the corresponding authors
 
-[C2] Yu, W., Qu, G., **Kim, Y.-G.**, Xu, L., and Zhang, A (2025). A Novel GNN Framework Integrating Neuroimaging and Behavioral Information to Understand Adolescent Psychiatric Disorders. *Accepted at Medical Imaging with Deep Learning (MIDL)* [[Paper]](https://openreview.net/forum?id=Yjv27GWb3n#discussion)
+[C2] Yu, W., Qu, G., **Kim, Y.-G.**, Xu, L., and Zhang, A (2025). A Novel GNN Framework Integrating Neuroimaging and Behavioral Information to Understand Adolescent Psychiatric Disorders. *Accepted at Medical Imaging with Deep Learning (MIDL)* [[Paper]](https://openreview.net/forum?id=Yjv27GWb3n#discussion) [[Code]](https://github.com/elleryyu/BEG-GAE)
 
 [C3] **Kim, Y.-G.**, Liu, Y., and Wei, X. (2023). Covariate-informed representation learning to prevent posterior collapse of iVAE. *Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS)*. [[Paper]](https://proceedings.mlr.press/v206/kim23c/kim23c.pdf) [[Code]](https://github.com/kyg0910/CI-iVAE)
 
