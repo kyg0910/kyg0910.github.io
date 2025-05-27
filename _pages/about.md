@@ -54,6 +54,7 @@ Other Professional Activities
 - Expert Systems with Applications (42)
 - JAMA Psychiatry (2)
 - Biostatistics (1)
+- Physica A: Statistical Mechanics and its Applications (1)
 - Statistics and Data Science in Imaging (2)
 - International Journal of Computer Assisted Radiology and Surgery (3)
 - Journal of the Korean Statistical Society (2)
