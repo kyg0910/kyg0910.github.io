@@ -1,8 +1,9 @@
 ---
 layout: archive
 title: "Grant"
-permalink: /grant/
+permalink: /grants/
 author_profile: true
 ---
 
-## Test
+## Active
+
