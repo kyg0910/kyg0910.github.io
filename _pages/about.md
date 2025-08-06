@@ -36,6 +36,10 @@ Selected Publications
 
 5. Kim, S., **Kim, Y.-G.**, and Wang, Y. (2024). Temporal generative models for learning heterogeneous group dynamics of ecological momentary data. *Biometrics* [[Paper]](https://academic.oup.com/biometrics/article/80/4/ujae115/7821109) [[Code]](https://academic.oup.com/biometrics/article/80/4/ujae115/7821109)
 
+PI Funding
+======
+National Science Foundation, DMS: Statistical Understanding of Adversarial Training in Neural Networks, $180,000, 08/2025-07/2028, Role: Co-PI (PI: Dr. Yue Xing, Michigan State University)
+
 Other Professional Activities
 ======
 ## Event Chairing
