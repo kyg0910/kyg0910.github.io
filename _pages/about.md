@@ -54,6 +54,8 @@ Other Professional Activities
 - Invited Session at Eastern North American Region 2023 (role: **Chair**); Title: Advanced Methods for Analyzing Large-Scale Neuroimaging Data from Nationwide Consortiums for Mental Health Research [[Info]](https://www.enar.org/meetings/spring2023/program/Invited_Preliminary_Program.cfm)
 
 - Oral Presentation Session at International Conference on Machine Learning 2022 (role: **Chair**); Title: Theory [[Info]](https://icml.cc/virtual/2022/session/20086)
+  
+- Invited Session at IMS-China International Conference on Statistics and Probability 2019 (role: **Speaker**); Title: Lipschitz continuous autoencoders in application to anomaly detection.
 
 ## Reviewer 
 ### Journal (number of submissions)
