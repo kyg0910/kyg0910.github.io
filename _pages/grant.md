@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Test"
-permalink: /test/
+title: "Grant"
+permalink: /grant/
 author_profile: true
 ---
 
