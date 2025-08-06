@@ -13,7 +13,7 @@ author_profile: true
 4. **Kim, Y.-G.**, Kwon, Y., Chang, H., and Paik, M.C. (2019). "Lipschitz continuous autoencoders in application to anomaly detection." *IMS-China International Conference on Statistics and Probability, Dalian, China.*
 
 ## Domestic (Republic of Korea)
-1. (Scheduled) **Kim, Y.-G.** (2025). "Reliable Statistical Reasoning with Conditional Generative Models." *Ulsan National Institute of Science and Technology (UNIST).*
+1. **Kim, Y.-G.** (2025). "Reliable Statistical Reasoning with Conditional Generative Models." *Ulsan National Institute of Science and Technology (UNIST).*
 2. **Kim, Y.-G.** (2024). "Reliable Statistical Reasoning with Conditional Generative Models." *Korea University.*
 3. **Kim, Y.-G.** (2023). "Recent Topics on Conditional Generative Models: statistical distance of conditional distributions and identifiability." *Ulsan National Institute of Science and Technology (UNIST).*
 4. **Kim, Y.-G.** (2023). "Recent Topics on Conditional Generative Models: statistical distance of conditional distributions and identifiability." *Korea Institute for Advanced Study (KIAS).*
