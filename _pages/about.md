@@ -17,7 +17,7 @@ I am a data scientist with expertise in advanced techniques for biomedical data 
 
 Recent News
 ======
-- [08-06-2025] Our grant proposal has been accepted by the National Science Foundation; Statistical Understanding of Adversarial Training in Neural Networks, $180,000, 08/2025-07/2028, Role: Co-PI (PI: Dr. Yue Xing, Michigan State University)
+- [08-06-2025] Our grant proposal has been accepted by the National Science Foundation; Statistical Understanding of Adversarial Training in Neural Networks, $180,000, 08/2025-07/2028, Role: **Co-PI** (PI: Dr. Yue Xing, Michigan State University)
 - [03-27-2025] Our work has been accepted at Medical Imaging with Deep Learning; Title: A Novel GNN Framework Integrating Neuroimaging and Behavioral Information to Understand Adolescent Psychiatric Disorders
 - [03-25-2025] Our Invited Session proposal has been accepted for International Indian Statistical Association (role: **Speaker**)
 - [03-12-2025] Our work has been accepted at IEEE International Conference on Healthcare Informatics (selected as a long presentation); Title: Optimizing Contingency Management with Reinforcement Learning
