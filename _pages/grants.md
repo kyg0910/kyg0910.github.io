@@ -10,7 +10,7 @@ author_profile: true
 
 # Past
 ## USA-Funded
-- National Institutes of Health, NIMH: A data science framework for empirically evaluating and deriving reproducible and transferrable RDoC constructs, 07/2021-08/2024, Role: Postdoctoral Researcher
+- National Institutes of Health, NIMH: A data science framework for empirically evaluating and deriving reproducible and transferrable RDoC constructs in youth, 07/2021-08/2024, Role: Postdoctoral Researcher
 
 ## Republic of Korea-Funded
 - National Research Foundation: Deep learning with incomplete and sequential data: Application to biomedical data, 03/2020-06/2021, Role: Graduate Student
