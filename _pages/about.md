@@ -66,6 +66,7 @@ Other Professional Activities
 - Statistics and Data Science in Imaging (2)
 - International Journal of Computer Assisted Radiology and Surgery (3)
 - Journal of the Korean Statistical Society (2)
+- Journal of Computing Science and Engineering (1)
 
 ### Conference (year)
 - International Conference on Machine Learning (2022)
