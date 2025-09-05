@@ -70,4 +70,4 @@ Other Professional Activities
 
 ### Conference (year)
 - International Conference on Machine Learning (2022)
-- International Conference on Artificial Intelligence and Statistics (2022 and 2023)
+- International Conference on Artificial Intelligence and Statistics (2022, 2023, and 2026)
