@@ -14,9 +14,9 @@ author_profile: true
     - Individualized study on selected problems
    
 ### Undergraduate-level course
-  - **STT 441 Sections 1 and 2: Probability and Statistics I: Probability (Fall 2025)** at Michigan State University
+  - **STT 441 Sections 1 and 2: Probability and Statistics I: Probability (Fall 2025)** at Michigan State University [[Syllabus]](https://github.com/kyg0910/kyg0910.github.io/blob/master/_pages/STT_441_Syllabus.pdf)
     - Topics include probability models and basic statistics at an intermediate mathematical level, such as normal approximation, sampling distributions, parameter estimation, and elementary tests of hypotheses.
-  - **STT 351: Probability and Statistics for Engineering (Summer 2025)** at Michigan State University
+  - **STT 351: Probability and Statistics for Engineering (Summer 2025)** at Michigan State University [[Syllabus]](https://github.com/kyg0910/kyg0910.github.io/blob/master/_pages/STT_351_Syllabus.pdf)
     - Topics include probability models and random variables, estimation, confidence intervals, tests of hypotheses, simple linear regression, and applications to engineering.
     
 ## Guest Lecturer
