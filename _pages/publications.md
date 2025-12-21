@@ -35,12 +35,13 @@ author_profile: true
 ## Preprint
 [Pre. 1] **Kim, Y.-G.**, Lee, K., Choi, Y., Won, J.-H., and Paik, M.C. (2023). Wasserstein geodesic generator for conditional distributions (under *Major Revision* at Journal of Machine Learning Research). [[ArXiv]](http://arxiv.org/abs/2308.10145) [[Code]](https://github.com/kyg0910/Wasserstein-Geodesic-Generator-for-Conditional-Distributions)
 
-[Pre. 2] Zheng, X., Ravid, O., Barry, R. A.J., Kim, Y., Wang, Q., **Kim, Y.-G.**, Zhu, X.‡ and He, X.‡ (2024). Denoising Variational Autoencoder as a Feature Reduction Pipeline for the diagnosis of Autism based on Resting-state fMRI. [[Arxiv]](https://arxiv.org/abs/2410.00068)
+[Pre. 2] Yang B., **Kim, Y.-G.**, and Wang Y. Deep Representation Learning for Optimizing Treatment Decisions with Electroencephalogram Biomarkers. Submitted to Biometrics
+* This work was selected as the Runner-up in the student paper competition for the Statistics in Imaging Section of the ASA.
+
+[Pre. 3] Zheng, X., Ravid, O., Barry, R. A.J., Kim, Y., Wang, Q., **Kim, Y.-G.**, Zhu, X.‡ and He, X.‡ (2024). Denoising Variational Autoencoder as a Feature Reduction Pipeline for the diagnosis of Autism based on Resting-state fMRI. [[Arxiv]](https://arxiv.org/abs/2410.00068)
    ‡: Equal contribution of the corresponding authors
 
 ## Work in progress
 [W1] **Kim, Y.-G.**\*‡ and Liu, Y. Mid-VAE: Multi-modal, Identifiable, and Disentangled Representation Learning for Children's Structural Brain Imaging. Work in progress
 * Preliminary results were presented at ABCD AIIM conference.
-  
-[W2] Yang B., **Kim, Y.-G.**, and Wang Y. Representation learning for optimizing individualized treatment decisions. Work in progress
-* This work was selected as the Runner-up in the student paper competition for the Statistics in Imaging Section of the ASA.
+
