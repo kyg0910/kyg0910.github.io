@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Young-geun Kim, a tenure-track Assistant Professor at the Department of Mathematical Sciences at Ulsan National Institute of Science and Technology (UNIST).
-
-Before joining UNIST, I was the Hannan Endowed Visitng Assistant Professor at the Department of Statistics and Probability at Michigan State University (MSU), and a Postdoctoral Fellow in the Department of Biostatistics and the Department of Psychiatry at Columbia University. I received a Ph.D. degree in Statistics from Seoul National University. 
+I am Young-geun Kim, a tenure-track Assistant Professor in the Department of Mathematical Sciences at Ulsan National Institute of Science and Technology (UNIST).<br>&nbsp;&nbsp;&nbsp;&nbsp;Before joining UNIST, I was the Hannan Endowed Visiting Assistant Professor in the Department of Statistics and Probability at Michigan State University (MSU), and a Postdoctoral Fellow in the Departments of Biostatistics and Psychiatry at Columbia University. I received my Ph.D. in Statistics from Seoul National University.
 
 I am a data scientist with expertise in advanced techniques for biomedical data and their dissemination for medical research. My research topics include, but are not limited to:
 - Deep generative models for multi-modal biomedical data (e.g., neuroimaging and multi-omics)
