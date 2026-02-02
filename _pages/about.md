@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Young-geun Kim, an Assistant Professor at the Department of Statistics and Probability at Michigan State University (MSU). Before joining MSU, I was a postdoc fellow at the Department of Biostatistics and the Department of Psychiatry at Columbia University. I received a Ph.D. degree in Statistics from Seoul National University. 
+I am Young-geun Kim, a tenure-track Assistant Professor at the Department of Mathematical Sciences at Ulsan National Institute of Science and Technology (UNIST). Before joining UNIST, I was the Hannan Endowed Visitng Assistant Professor at the Department of Statistics and Probability at Michigan State University (MSU), and a Postdoctoral Fellow in the Department of Biostatistics and the Department of Psychiatry at Columbia University. I received a Ph.D. degree in Statistics from Seoul National University. 
 
 I am a data scientist with expertise in advanced techniques for biomedical data and their dissemination for medical research. My research topics include, but are not limited to:
 - Deep generative models for multi-modal biomedical data (e.g., neuroimaging and multi-omics)
@@ -17,12 +17,11 @@ I am a data scientist with expertise in advanced techniques for biomedical data 
 
 Recent News
 ======
+- [02-01-2026] I joined the Department of Mathematical Sciences at Ulsan National Institute of Science and Technology (UNIST) as a tenure-track Assistant Professor.
 - [08-06-2025] Our grant proposal has been accepted by the National Science Foundation; Statistical Understanding of Adversarial Training in Neural Networks, $180,000, 08/2025-07/2028, Role: **Co-PI** (PI: Dr. Yue Xing, Michigan State University)
 - [03-27-2025] Our work has been accepted at Medical Imaging with Deep Learning; Title: A Novel GNN Framework Integrating Neuroimaging and Behavioral Information to Understand Adolescent Psychiatric Disorders
 - [03-25-2025] Our Invited Session proposal has been accepted for International Indian Statistical Association (role: **Speaker**)
 - [03-12-2025] Our work has been accepted at IEEE International Conference on Healthcare Informatics (selected as a long presentation); Title: Optimizing Contingency Management with Reinforcement Learning
-- [01-15-2025] Our work was selected as the Runner-up in the student paper competition for the Statistics in Imaging Section of the ASA; Title: Deep Representation Learning for Optimizing Individualized Treatment Decisions
-- [09-11-2024] Our work has been accepted at Biometrics; Title: Temporal generative models for learning heterogeneous group dynamics of ecological momentary data
 
 Selected Publications
 ======
@@ -38,11 +37,13 @@ Selected Publications
 
 Active Grant
 ======
-- National Science Foundation, DMS: Statistical Understanding of Adversarial Training in Neural Networks, $180,000, 08/2025-07/2028, Role: Co-PI (PI: Dr. Yue Xing, Michigan State University)
+- National Science Foundation, DMS: Statistical Understanding of Adversarial Training in Neural Networks, $180,000, 08/2025-07/2028, Role: Co-PI (Aug. 2025 - Jan. 2026); International Consultant (Jan. 2026 - Jul. 2028); Role transitioned due to relocation to UNIST, South Korea (PI: Dr. Yue Xing, Michigan State University)
 
 Other Professional Activities
 ======
 ## Event Chairing
+- (Scheduled) Invited Session at the 2026 International Chinese Statistical Association (ICSA) China Conference (role: **Speaker**)
+
 - Invited Session at East Asia Chapter of International Society for Bayesian Analysis 2025 (role: **Chair**); Title: Recent Developments in a Bayesian Framework
   
 - Invited Session at 2025 International Indian Statistical Association (role: **Speaker**); Title: Wasserstein Geodesic Generator for Conditional Distributions
