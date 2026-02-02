@@ -6,24 +6,28 @@ author_profile: true
 ---
 
 ## Instructor
-### Graduate-level course
-  - **STT 997: Advanced Topics in Statistics (Spring 2025)** at Michigan State University [[Course Material]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/tree/main)
-    - **Developed a new course** for recent topics in deep generative models and their applications
-      
-  - **STT 890: Statistical Problems (Summer 2025)** at Michigan State University
-    - Individualized study on selected problems
+  - **MTH344: Mathematical Statistics (Spring 2026)** at Ulsan National Institute of Science and Technology
+    - **Developed a new course**
+    - An undergraduate-level course covering advanced topics in mathematical statistics, including limit theorems, small-sample inference, hypothesis testing, analysis of variance (ANOVA), and linear regression.
+    
+  - **STT441 Sections 1 and 2: Probability and Statistics I: Probability (Fall 2025)** at Michigan State University [[Syllabus]](https://github.com/kyg0910/kyg0910.github.io/blob/master/_pages/STT_441_Syllabus.pdf)
+    - An undergraduate-level course covering topics such as normal approximation, sampling distributions, parameter estimation, and elementary tests of hypotheses.
+
+  - **STT351: Probability and Statistics for Engineering (Summer 2025)** at Michigan State University [[Syllabus]](https://github.com/kyg0910/kyg0910.github.io/blob/master/_pages/STT_351_Syllabus.pdf)
+    - An undergraduate-level course covering topics such as probability models and random variables, estimation, confidence intervals, tests of hypotheses, simple linear regression, and applications to engineering.
+ 
+  - **STT890: Statistical Problems (Summer 2025)** at Michigan State University
+    - A graduate-level course for individualized study on selected problems
    
-### Undergraduate-level course
-  - **STT 441 Sections 1 and 2: Probability and Statistics I: Probability (Fall 2025)** at Michigan State University [[Syllabus]](https://github.com/kyg0910/kyg0910.github.io/blob/master/_pages/STT_441_Syllabus.pdf)
-    - Topics include probability models and basic statistics at an intermediate mathematical level, such as normal approximation, sampling distributions, parameter estimation, and elementary tests of hypotheses.
-  - **STT 351: Probability and Statistics for Engineering (Summer 2025)** at Michigan State University [[Syllabus]](https://github.com/kyg0910/kyg0910.github.io/blob/master/_pages/STT_351_Syllabus.pdf)
-    - Topics include probability models and random variables, estimation, confidence intervals, tests of hypotheses, simple linear regression, and applications to engineering.
+  - **STT997: Advanced Topics in Statistics (Spring 2025)** at Michigan State University [[Course Material]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/tree/main)
+    - **Developed a new course**
+    - A graduate-level course covering recent topics in deep generative models and their applications
     
 ## Guest Lecturer
   - **Statistical Practice and Research for Interdisciplinary Sciences (Spring 2025)** at Columbia University
     - Graduate-level course on interdisciplinary research topics in Biostatistics.
     - Gave the lecture "Variational Autoencoders and Their Applications to Multi-modal Data Analysis".
-  - **STT 990: Statistics & Probability (Fall 2024)** at Michigan State University
+  - **STT990: Statistics & Probability (Fall 2024)** at Michigan State University
     - Graduate-level seminar course.
     - Gave the lecture "Deep Generative Model: A Statistical Perspective". [[Presentation Slide]](https://github.com/kyg0910/kyg0910.github.io/blob/master/_pages/%5BSTT%20990%5D%20Deep%20Generative%20Model_A%20Statistical%20Perspective.pdf)
   - **Statistical Practice and Research for Interdisciplinary Sciences (Spring 2024)** at Columbia University
