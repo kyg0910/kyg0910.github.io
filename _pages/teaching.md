@@ -50,3 +50,7 @@ author_profile: true
   - Zekai Jin, Master Student, Department of Biostatistics, Columbia University (Dec. 2022 - Oct. 2023)
     - Conducted regular bi-weekly meetings with the student and Dr. Seonjoo Lee.
     - Provided mentorship on deep learning-based EEG denoising methods.
+
+## Doctoral Dissertation Committee
+  - Bin Yang, Department of Biostatistics, Columbia University
+    - Role: Committee member
