@@ -42,21 +42,14 @@ Active Grant
 Other Professional Activities
 ======
 ## Event Chairing
-- (Scheduled) Invited Session at the 2026 International Chinese Statistical Association (ICSA) China Conference (role: **Speaker**)
 
 - Invited Session at East Asia Chapter of International Society for Bayesian Analysis 2025 (role: **Chair**); Title: Recent Developments in a Bayesian Framework
-  
-- Invited Session at 2025 International Indian Statistical Association (role: **Speaker**); Title: Wasserstein Geodesic Generator for Conditional Distributions
 
 - Invited Session at Joint Statistical Meetings 2024 (role: **Organizer** & **Speaker**); Title: Reliable and Cost-effective Mental Health Care with Reinforcement Learning
-
-- Invited Session at 2024 International Chinese Statistical Association (role: **Speaker**); Title: Recent Advances in Precision Medicine and Adaptive Experiments
   
 - Invited Session at Eastern North American Region 2023 (role: **Chair**); Title: Advanced Methods for Analyzing Large-Scale Neuroimaging Data from Nationwide Consortiums for Mental Health Research [[Info]](https://www.enar.org/meetings/spring2023/program/Invited_Preliminary_Program.cfm)
 
 - Oral Presentation Session at International Conference on Machine Learning 2022 (role: **Chair**); Title: Theory [[Info]](https://icml.cc/virtual/2022/session/20086)
-  
-- Invited Session at IMS-China International Conference on Statistics and Probability 2019 (role: **Speaker**); Title: Lipschitz continuous autoencoders in application to anomaly detection.
 
 ## Reviewer 
 ### Journal (number of submissions)
