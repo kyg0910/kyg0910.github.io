@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "UNIST Representation Learning Lab"
+title: "Representation Learning Lab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
