@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Young-geun Kim"
+title                    : "Representation Learning Lab"
 title_separator          : "-"
 name                     : &name "Dr. Younggeun Kim"
 description              : &description "personal description"
