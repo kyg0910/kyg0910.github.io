@@ -10,10 +10,9 @@ redirect_from:
 
 I am Young-geun Kim, a tenure-track Assistant Professor in the Department of Mathematical Sciences at Ulsan National Institute of Science and Technology (UNIST).<br>&nbsp;&nbsp;&nbsp;&nbsp;Before joining UNIST, I was the Hannan Endowed Visiting Assistant Professor in the Department of Statistics and Probability at Michigan State University (MSU), and a Postdoctoral Fellow in the Departments of Biostatistics and Psychiatry at Columbia University. I received my Ph.D. in Statistics from Seoul National University.
 
-I am a data scientist with expertise in advanced techniques for biomedical data and their dissemination for medical research. My research topics include, but are not limited to:
-- Deep generative models for multi-modal biomedical data (e.g., neuroimaging and multi-omics)
-- Deep learning for identifying biomarkers associated with mental illness
-- Reinforcement learning-based health care
+In an era of abundant yet complex high-dimensional data, the Representation Learning Lab focuses on statistical methods for representation learning. We aim to discover low-dimensional latent features that capture meaningful patterns and offer greater explainability than the raw data themselves. Our mission is to build AI that is both theoretically grounded and interpretable, with a focus on applying these data-driven methods to biomedical research.
+
+For instance, we work on identifiable representation learning, developing models where learning the data distribution guarantees the recovery of the true conditional distributions of latent representations. We apply these methodologies to analyze neuroimaging data (e.g., functional MRI). By identifying latent biomarkers associated with mental disorders (e.g., Autism, OCD), we strive to advance precision psychiatry.
 
 Recent News
 ======
@@ -35,33 +34,3 @@ Selected Publications
 
 5. Kim, S., **Kim, Y.-G.**, and Wang, Y. (2024). Temporal generative models for learning heterogeneous group dynamics of ecological momentary data. *Biometrics* [[Paper]](https://academic.oup.com/biometrics/article/80/4/ujae115/7821109) [[Code]](https://academic.oup.com/biometrics/article/80/4/ujae115/7821109)
 
-Active Grant
-======
-- National Science Foundation, DMS: Statistical Understanding of Adversarial Training in Neural Networks, $180,000, 08/2025-07/2028, Role: Co-PI (Aug. 2025 - Jan. 2026); International Consultant (Jan. 2026 - Jul. 2028); Role transitioned due to relocation to UNIST, South Korea (PI: Dr. Yue Xing, Michigan State University)
-
-Other Professional Activities
-======
-## Event Chairing
-
-- Invited Session at East Asia Chapter of International Society for Bayesian Analysis 2025 (role: **Chair**); Title: Recent Developments in a Bayesian Framework
-
-- Invited Session at Joint Statistical Meetings 2024 (role: **Organizer** & **Speaker**); Title: Reliable and Cost-effective Mental Health Care with Reinforcement Learning
-  
-- Invited Session at Eastern North American Region 2023 (role: **Chair**); Title: Advanced Methods for Analyzing Large-Scale Neuroimaging Data from Nationwide Consortiums for Mental Health Research [[Info]](https://www.enar.org/meetings/spring2023/program/Invited_Preliminary_Program.cfm)
-
-- Oral Presentation Session at International Conference on Machine Learning 2022 (role: **Chair**); Title: Theory [[Info]](https://icml.cc/virtual/2022/session/20086)
-
-## Reviewer 
-### Journal (number of submissions)
-- Expert Systems with Applications (42)
-- JAMA Psychiatry (2)
-- Biostatistics (1)
-- Physica A: Statistical Mechanics and its Applications (1)
-- Statistics and Data Science in Imaging (2)
-- International Journal of Computer Assisted Radiology and Surgery (3)
-- Journal of the Korean Statistical Society (2)
-- Journal of Computing Science and Engineering (1)
-
-### Conference (year)
-- International Conference on Machine Learning (2022)
-- International Conference on Artificial Intelligence and Statistics (2022, 2023, and 2026)
