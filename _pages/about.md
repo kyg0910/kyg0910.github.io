@@ -16,6 +16,7 @@ For instance, we work on identifiable representation learning, developing models
 
 Recent News
 ======
+- [03-09-2026] Our Invited Session proposal has been accepted for International Chinese Statistical Association China (ICSA-China) (role: **Speaker**)
 - [02-01-2026] I joined the Department of Mathematical Sciences at Ulsan National Institute of Science and Technology (UNIST) as a tenure-track Assistant Professor.
 - [08-06-2025] Our grant proposal has been accepted by the National Science Foundation; Statistical Understanding of Adversarial Training in Neural Networks, $180,000, 08/2025-07/2028, Role: **Co-PI** (PI: Dr. Yue Xing, Michigan State University)
 - [03-27-2025] Our work has been accepted at Medical Imaging with Deep Learning; Title: A Novel GNN Framework Integrating Neuroimaging and Behavioral Information to Understand Adolescent Psychiatric Disorders
