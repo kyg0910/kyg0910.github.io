@@ -8,7 +8,7 @@ author_profile: true
 ## Instructor
   - **MTH344: Mathematical Statistics (Spring 2026)** at Ulsan National Institute of Science and Technology
     - **Developed a new course**
-    - An undergraduate-level course covering advanced topics in mathematical statistics, including limit theorems, small-sample inference, hypothesis testing, analysis of variance (ANOVA), and linear regression.
+    - An undergraduate-level course covering advanced topics in mathematical statistics, including limit theorems, small-sample inference, hypothesis testing, and analysis of variance (ANOVA).
     
   - **STT441 Sections 1 and 2: Probability and Statistics I: Probability (Fall 2025)** at Michigan State University [[Syllabus]](https://github.com/kyg0910/kyg0910.github.io/blob/master/_pages/STT_441_Syllabus.pdf)
     - An undergraduate-level course covering topics such as normal approximation, sampling distributions, parameter estimation, and elementary tests of hypotheses.
