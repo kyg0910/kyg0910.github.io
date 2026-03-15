@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Instructor
-  - **MTH344: Mathematical Statistics (Spring 2026)** at Ulsan National Institute of Science and Technology
+  - **MTH344: Mathematical Statistics (Spring 2026)** at Ulsan National Institute of Science and Technology [[Course Material]](https://github.com/kyg0910/MTH344-Mathematical-Statistics)
     - **Developed a new course**
     - An undergraduate-level course covering advanced topics in mathematical statistics, including limit theorems, small-sample inference, hypothesis testing, and analysis of variance (ANOVA).
     
