@@ -27,6 +27,7 @@ author_profile: true
 - Journal of Computing Science and Engineering (3)
 
 ### Conference (year)
+- Conference on Neural Information Processing Systems (2026)
 - International Conference on Machine Learning (2022)
 - International Conference on Artificial Intelligence and Statistics (2022, 2023, and 2026)
 
