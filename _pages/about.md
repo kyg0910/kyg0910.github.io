@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+> 📢 **Openings:** Our lab is looking for highly motivated students to join an international joint research assistantship program with the University of Texas at Arlington (UTA). For more details, please refer to the [UNIST-UTA Joint Research Assistantship (RA) in Neuroimaging](https://github.com/kyg0910/kyg0910.github.io/blob/master/pages/UNIST-UTA%20joint%20research%20assistantship%20in%20neuroimaging.pdf).
+
 I am Young-geun Kim, a tenure-track Assistant Professor in the Department of Mathematical Sciences at Ulsan National Institute of Science and Technology (UNIST).<br>&nbsp;&nbsp;&nbsp;&nbsp;Before joining UNIST, I was the Hannan Endowed Visiting Assistant Professor in the Department of Statistics and Probability at Michigan State University (MSU), and a Postdoctoral Fellow in the Departments of Biostatistics and Psychiatry at Columbia University. I received my Ph.D. in Statistics from Seoul National University.
 
 In an era of abundant yet complex high-dimensional data, the Representation Learning Lab focuses on statistical methods for representation learning. We aim to discover low-dimensional latent features that capture meaningful patterns and offer greater explainability than the raw data themselves. Our mission is to build AI that is both theoretically grounded and interpretable, with a focus on applying these data-driven methods to biomedical research.
