@@ -17,7 +17,7 @@ author_profile: true
 
 ## Reviewer 
 ### Journal (number of submissions)
-- Expert Systems with Applications (42)
+- Expert Systems with Applications (43)
 - JAMA Psychiatry (2)
 - Biostatistics (1)
 - Physica A: Statistical Mechanics and its Applications (1)
