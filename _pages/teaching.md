@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Instructor
+  - **(Developing) Deep Generative Models: A Statistical Perspective (Fall 2026)** at Ulsan National Institute of Science and Technology 
+    - A pilot course is currently undersay [[Course Material]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective).
+    - An undergraduate-level course covering foundations of probabilitstic modelling, likelihood ratio-based generative models, and generative models with other statistical distance.
+      
   - **MTH344: Mathematical Statistics (Spring 2026)** at Ulsan National Institute of Science and Technology [[Course Material]](https://github.com/kyg0910/MTH344-Mathematical-Statistics)
     - **Developed a new course**
     - An undergraduate-level course covering advanced topics in mathematical statistics, including limit theorems, small-sample inference, hypothesis testing, and analysis of variance (ANOVA).
