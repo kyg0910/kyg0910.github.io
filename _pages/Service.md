@@ -17,6 +17,7 @@ author_profile: true
 
 ## Reviewer 
 ### Journal (number of submissions)
+- Journal of the American Statistical Association (1)
 - Expert Systems with Applications (43)
 - JAMA Psychiatry (2)
 - Biostatistics (1)
