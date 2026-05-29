@@ -36,9 +36,12 @@ author_profile: true
 [Pre. 1] **Kim, Y.-G.**, Lee, K., Choi, Y., Won, J.-H., and Paik, M.C. (2023). Wasserstein geodesic generator for conditional distributions. [[ArXiv]](http://arxiv.org/abs/2308.10145) [[Code]](https://github.com/kyg0910/Wasserstein-Geodesic-Generator-for-Conditional-Distributions)
 
 [Pre. 2] Yang B., **Kim, Y.-G.**, and Wang Y. Deep Representation Learning for Optimizing Treatment Decisions with Electroencephalogram Biomarkers.
-* This work was selected as the Runner-up in the student paper competition for the Statistics in Imaging Section of the ASA.
+* Under major revision at Biometrics; This work was selected as the Runner-up in the student paper competition for the Statistics in Imaging Section of the ASA.
 
-[Pre. 3] Zheng, X., Ravid, O., Barry, R. A.J., Kim, Y., Wang, Q., **Kim, Y.-G.**, Zhu, X.‡ and He, X.‡ (2024). Denoising Variational Autoencoder as a Feature Reduction Pipeline for the diagnosis of Autism based on Resting-state fMRI. [[Arxiv]](https://arxiv.org/abs/2410.00068)
+[Pre. 3] Liu, M., Huang, Z., Li, H., **Kim, Y.-G.**, and Xing, Y. How to Enhance Downstream Adversarial Robustness (almost) without Touching the Pre-Trained Foundation Model?
+* Submitted to NeurIPS.
+
+[Pre. 4] Zheng, X., Ravid, O., Barry, R. A.J., Kim, Y., Wang, Q., **Kim, Y.-G.**, Zhu, X.‡ and He, X.‡ (2024). Denoising Variational Autoencoder as a Feature Reduction Pipeline for the diagnosis of Autism based on Resting-state fMRI. [[Arxiv]](https://arxiv.org/abs/2410.00068)
    ‡: Equal contribution of the corresponding authors
 
 ## Work in progress
