@@ -26,6 +26,7 @@ author_profile: true
 - International Journal of Computer Assisted Radiology and Surgery (3)
 - Journal of the Korean Statistical Society (2)
 - Journal of Computing Science and Engineering (3)
+- Journal of Statistical Theory and Practice (1)
 
 ### Conference (year)
 - Conference on Neural Information Processing Systems (2026)
