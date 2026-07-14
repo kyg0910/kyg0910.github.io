@@ -12,6 +12,7 @@ author_profile: true
 4. **Kim, Y.-G.**, Luo, S. X., Brandt, L., Cheung, K., Nunes, E. V., Roll, J., and Liu, Y. (2024). "Optimizing Contingency Management Interventions in Substance Use Disorder Treatment with Reinforcement Learning.'' *The Joint Statistical Meetings (JSM), Portland, OR, USA.*
 5. **Kim, Y.-G.**, Lee, K., Choi, Y., Won, J.-H., and Paik, M.C. (2025). "Wasserstein geodesic generator for conditional distributions.'' *The International Indian Statistical Association (IISA), Lincoln, NE, USA.*
 6. **Kim, Y.-G.** (2026). "Multi-Modal Representation Learning with Partially Pairwise Observations." *The 2026 International Chinese Statistical Association (ICSA) China Conference, Shenzhen, China*
+7. **Kim, Y.-G.** (2026). "Representation Learning for Multi-Modal Data with Partial Pairwise Observations." *The 20th International Joint Conference CFE-CMStatistics, Berlin, Germany*
 
 ## Domestic (Republic of Korea)
 1. **Kim, Y.-G.**, Chang, H., and Paik, M.C. (2018). "Unsupervised anomaly detection using inverse Christoffel function via kernelized Wasserstein autoencoders." *Fall Korea Statistical Conference 2018, Seoul.*
