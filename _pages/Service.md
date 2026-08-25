@@ -17,19 +17,22 @@ author_profile: true
 
 ## Reviewer 
 ### Journal (number of submissions)
-- Journal of the American Statistical Association (1)
-- Expert Systems with Applications (43)
-- JAMA Psychiatry (2)
 - Biostatistics (1)
-- Physica A: Statistical Mechanics and its Applications (1)
-- Statistics and Data Science in Imaging (2)
+- Computational Statistics (1)
+- Expert Systems with Applications (43)
 - International Journal of Computer Assisted Radiology and Surgery (3)
-- Journal of the Korean Statistical Society (2)
+- JAMA Psychiatry (2)
 - Journal of Computing Science and Engineering (3)
 - Journal of Statistical Theory and Practice (1)
+- Journal of the American Statistical Association (1)
+- Journal of the Korean Statistical Society (2)
+- NeuroImage (1)
+- Physica A: Statistical Mechanics and its Applications (1)
+- Statistics and Data Science in Imaging (2)
 
 ### Conference (year)
 - Conference on Neural Information Processing Systems (2026)
-- International Conference on Machine Learning (2022)
 - International Conference on Artificial Intelligence and Statistics (2022, 2023, and 2026)
+- International Conference on Machine Learning (2022)
+
 
