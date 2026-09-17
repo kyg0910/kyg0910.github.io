@@ -13,7 +13,6 @@ author_profile: true
 5. **Kim, Y.-G.**, Lee, K., Choi, Y., Won, J.-H., and Paik, M.C. (2025). "Wasserstein geodesic generator for conditional distributions.'' *The International Indian Statistical Association (IISA), Lincoln, NE, USA.*
 6. **Kim, Y.-G.** (2026). "Multi-Modal Representation Learning with Partially Pairwise Observations." *The 2026 International Chinese Statistical Association (ICSA) China Conference, Shenzhen, China*
 7. **Kim, Y.-G.** (2026). "Representation Learning for Multi-Modal Data with Partial Pairwise Observations." *The 20th International Joint Conference CFE-CMStatistics, Berlin, Germany*
-8. **Kim, Y.-G.** (2026). "Representation Learning for Multi-Modal Data with Partial Pairwise Observations." *The 20th International Joint Conference CFE--CMStatistics, Berlin, Germany.*
 
 ## Domestic (Republic of Korea)
 1. **Kim, Y.-G.**, Chang, H., and Paik, M.C. (2018). "Unsupervised anomaly detection using inverse Christoffel function via kernelized Wasserstein autoencoders." *Fall Korea Statistical Conference 2018, Seoul.*
