@@ -11,7 +11,7 @@ author_profile: true
 [J2] **Kim, Y.-G.**\*, Ravid, O.\*, Zhang, X., Kim, Y., Neria, Y., Lee, S., He, X.‡, and Zhu, X.‡ (2024). Explaining deep learning-based representations of resting state functional connectivity data: focusing on interpreting nonlinear patterns in autism spectrum disorder.  *Frontiers in Psychiatry*. [[Paper]](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1397093/abstract) [[Code]](https://github.com/kyg0910/Deep-Learning-Based-Representations-of-Resting-State-Functional-Connectivity-Data)
    *: Equal contribution of the first authors; ‡: Equal contribution of the corresponding authors
 
-[J3] **Kim, Y.-G.**, Lee, K., and Paik, M.C. (2022). Conditional Wasserstein generator. *IEEE Transactions on Pattern Analysis and Machine Intelligence*. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9944913) [[Code]](https://github.com/kyg0910/Conditional-Wasserstein-Generator)
+[J3] **Kim, Y.-G.**, Lee, K., and Paik, M.C. (2023). Conditional Wasserstein generator. *IEEE Transactions on Pattern Analysis and Machine Intelligence*. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9944913) [[Code]](https://github.com/kyg0910/Conditional-Wasserstein-Generator)
 
 [J4] **Kim, Y.-G.**, Kwon, Y., and Paik, M.C. (2019). Valid oversampling schemes to handle imbalance. *Pattern Recognition Letters*, 125 (1): 661-667. [[Paper]](https://doi.org/10.1016/j.patrec.2019.07.006) [[Code]](https://github.com/ykwon0407/valid-oversample)
 
