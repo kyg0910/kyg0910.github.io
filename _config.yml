@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Representation Learning Lab"
+title                    : "SIGMA Lab"
 title_separator          : "-"
 name                     : &name "Dr. Younggeun Kim"
 description              : &description "personal description"
