@@ -115,9 +115,9 @@ Generative models deepen our understanding of data mechanisms, e.g., by disentan
 </table>
 
 **Key Related Research**
-- **Kim, Y.-G.** et al. (2024). Explaining deep learning-based representations of resting state functional connectivity data: focusing on interpreting nonlinear patterns in autism spectrum disorder. *Frontiers in Psychiatry*.
-- Kim, S., **Kim, Y.-G.**, and Wang, Y. (2024). Temporal generative models for learning heterogeneous group dynamics of ecological momentary data. *Biometrics*. [[Paper]](https://academic.oup.com/biometrics/article/80/4/ujae115/7821109)
-- **Kim, Y.-G.**, Hu, M.-C., Nunes, E.V., Luo, S.X., and Liu, Y. (2025). Optimizing contingency management with reinforcement learning. *IEEE ICHI* (Long Presentation).
+- **Kim, Y.-G.** et al. (2024). Explaining deep learning-based representations of resting state functional connectivity data: focusing on interpreting nonlinear patterns in autism spectrum disorder. *Frontiers in Psychiatry*. [[Paper]](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1397093/full) [[Code]](https://github.com/kyg0910/Deep-Learning-Based-Representations-of-Resting-State-Functional-Connectivity-Data)
+- Kim, S., **Kim, Y.-G.**, and Wang, Y. (2024). Temporal generative models for learning heterogeneous group dynamics of ecological momentary data. *Biometrics*. [[Paper]](https://academic.oup.com/biometrics/article/80/4/ujae115/7821109) [[Code]](https://academic.oup.com/biometrics/article/80/4/ujae115/7821109#supplementary-data)
+- **Kim, Y.-G.**, Hu, M.-C., Nunes, E.V., Luo, S.X., and Liu, Y. (2025). Optimizing contingency management with reinforcement learning. *IEEE ICHI* (Long Presentation). [[Paper]](https://doi.org/10.1109/ICHI64645.2025.00051) [[Code]](https://github.com/kyg0910/Optimizing-Contingency-Management-with-Reinforcement-Learning)
 
 Related Courses & Open Materials
 ======
