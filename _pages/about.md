@@ -22,7 +22,7 @@ I am **Young-geun Kim**, a tenure-track Assistant Professor in the Department of
 📢 **Openings (Open Until Filled)**
 
 - We welcome motivated **undergraduate research interns** and **M.S. / Ph.D. students** interested in statistical AI theory or biomedical/vision applications. Please contact Prof. Young-geun Kim (`younggeun91@unist.ac.kr`) with your CV and transcript.
-- **UNIST-UTA Joint RA:** NIH-funded visiting research opportunity (up to 6 months) at the University of Texas at Arlington in neuroimaging AI. 👉 **[Program Details (PDF)](https://github.com/kyg0910/kyg0910.github.io/blob/master/_pages/UNIST-UTA%20joint%20research%20assistantship%20in%20neuroimaging.pdf)**
+- **UNIST-UTA Joint RA:** U.S. NIH-funded visiting research opportunity (up to 6 months) at the University of Texas at Arlington in neuroimaging AI. 👉 **[Program Details (PDF)](https://github.com/kyg0910/kyg0910.github.io/blob/master/_pages/UNIST-UTA%20joint%20research%20assistantship%20in%20neuroimaging.pdf)**
 
 </div>
 
