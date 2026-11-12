@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/sigma_lab_logo_2.png" alt="SIGMA Lab Logo" width="210" align="right" style="margin: 0 0 14px 20px; border-radius: 6px;">
+<p style="margin: 4px 0 16px 0;">
+  <img src="/images/sigma_lab_logo_2.png" alt="SIGMA Lab Logo" width="240" style="max-width: 100%; height: auto; border-radius: 6px;">
+</p>
 
 **Statistical Inference, Generative Modeling & Applications**  
 통계추론 및 생성모형 연구실 | Department of Mathematical Sciences, UNIST
 
 I am **Young-geun Kim**, a tenure-track Assistant Professor in the Department of Mathematical Sciences at UNIST. Before joining UNIST, I was the Hannan Endowed Visiting Assistant Professor in the Department of Statistics and Probability at Michigan State University (2024-2026) and a Postdoctoral Researcher in the Departments of Biostatistics and Psychiatry at Columbia University (2021-2024). I received my Ph.D. in Statistics from Seoul National University (2021).
-
-<br clear="all">
 
 <div class="notice--info" markdown="1">
 
@@ -23,6 +23,8 @@ I am **Young-geun Kim**, a tenure-track Assistant Professor in the Department of
 
 - We welcome motivated **undergraduate research interns** and **M.S. / Ph.D. students** interested in statistical AI theory or biomedical/vision applications. Please contact Prof. Young-geun Kim (`younggeun91@unist.ac.kr`) with your CV and transcript.
 - **UNIST-UTA Joint RA:** NIH-funded visiting research opportunity (up to 6 months) at the University of Texas at Arlington in neuroimaging AI. 👉 **[Program Details (PDF)](https://github.com/kyg0910/kyg0910.github.io/blob/master/_pages/UNIST-UTA%20joint%20research%20assistantship%20in%20neuroimaging.pdf)**
+
+</div>
 
 </div>
 
