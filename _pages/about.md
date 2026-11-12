@@ -26,8 +26,6 @@ I am **Young-geun Kim**, a tenure-track Assistant Professor in the Department of
 
 </div>
 
-</div>
-
 What is Statistical Generative Modeling?
 ======
 High-dimensional data, across videos, languages, and biomedical records, can be governed by low-dimensional hidden factors (*representations*). **SIGMA Lab** combines **<u>S</u>tatistical <u>I</u>nference** and **<u>G</u>enerative <u>M</u>odeling with <u>A</u>pplications** via deep learning to understand complex data with mathematical guarantees.
